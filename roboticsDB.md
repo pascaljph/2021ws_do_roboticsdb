@@ -57,9 +57,18 @@ Types of robots offered:
 ### Franka Emika
 
 ### Boston Dynamics
+##### Aquired by Hyundai Motor Company for $921M on Dec 9, 2020
 
+| Overview    | Boston Dynamics 
+| ----------- | -----------
+| Headquarters:| Greater Boston Area, East Coast, New England
+| Funding amount:    | $37 million (2019)
+| Founded:    | 1992
+| Employees:  | 212 (2019)
 
-
+Sources:
+[Boston Dynamics](https://www.bostondynamics.com/)
+[Crunshbase](https://www.crunchbase.com/organization/boston-dynamics)
 ### Robotic Applications in Automotive Manufacturing
 
 #### 1) Robotic Vision
