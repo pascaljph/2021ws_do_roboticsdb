@@ -59,6 +59,49 @@ Types of robots offered:
 ### Boston Dynamics
 
 
+
+### Robotic Applications in Automotive Manufacturing
+
+#### 1) Robotic Vision
+
+- [Automated vision](https://www.roboticstomorrow.com/article/2014/07/automated-vision-inspection-and-parts-traceability-in-automotive-assembly-process/4410/) with a camera for feedback
+- Perform proper offsetting when installing a part
+- Installation of: door panels, windshields, and fenders
+
+#### 2) Spot and Arc Welding
+
+- [Arc welding](https://www.youtube.com/watch?v=HUU3HdxOqZs)
+- [Spot welding](https://www.youtube.com/watch?v=v5wcRRdkrsU)
+- Preserving high welding standards 
+
+#### 3) Assembly
+
+- Assemble [smaller parts](https://www.automate.org/industry-insights/small-assembly-robots-with-big-gains) (motors and pumps) with [high speed (Example Mitsubishi)](https://www.youtube.com/watch?v=Hp3rN6_AS8k) 
+- Screw driving, windshield installation, wheel mounting
+
+#### 4) Paining, Sealing & Coating
+
+- [Cover large areas and limiting waste](https://www.youtube.com/watch?v=97KLjusbP2Y) (ABB & Volvo)
+- Spraying adhesives, sealants, and primers
+
+#### 5) Machine Tending and Part Transfer
+
+- Transferring metal stamps
+- Loading and unloading [CNC machines](https://meshautomationinc.com/robotic-machine-tending/cnc-load-and-unload/)
+- Pouring molten metal in a foundry
+
+#### 6) Materials Removal
+
+- [Trimming flash from plastic moldings](https://www.youtube.com/watch?v=QvPZhCkR3SU)
+- Polishing molds
+- Cutting fabric
+
+#### 7) Internal Logistics
+
+- Autonomous mobile robots (AMRs)
+- AMRs from Mobile Industrial Robots (MiR) to deliver on the factory floor ([Case Study: Ford](https://www.roboticsbusinessreview.com/case_studies/case-study-why-ford-deployed-amrs-to-automate-spanish-factory/))
+
+
 ### WHO
 
 ### WHAT
