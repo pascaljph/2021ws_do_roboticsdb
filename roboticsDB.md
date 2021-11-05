@@ -9,6 +9,7 @@ A delivery robot come with different shape and sizes. Some robots deliver food a
 Delivery robots enhance the speed of delivery, lower labor costs and reliability. 
 
 <a href="https://ibb.co/k3Z01rf"><img src="https://i.ibb.co/xmZGHc0/Pizza-Delivery-Robot.jpg" alt="Pizza-Delivery-Robot" border="0"></a>
+	[Example video of a food delivery](https://www.youtube.com/watch?v=13jqscTESNM)
 
 ### Collaborative robots
 A collaborative robot (cobot) is an industrial robot that works together with humans and is not separated from them in the production process by protective devices.
