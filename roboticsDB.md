@@ -4,6 +4,12 @@
 
 ## Products and robot types
 
+### Delivery Robots 
+A delivery robot come with different shape and sizes. Some robots deliver food and look like carts with wheels oder delivery robots look like humans. 
+Delivery robots enhance the speed of delivery, lower labor costs and reliability. 
+
+<a href="https://ibb.co/k3Z01rf"><img src="https://i.ibb.co/xmZGHc0/Pizza-Delivery-Robot.jpg" alt="Pizza-Delivery-Robot" border="0"></a>
+
 ### Collaborative robots
 A collaborative robot (cobot) is an industrial robot that works together with humans and is not separated from them in the production process by protective devices.
 
@@ -12,6 +18,8 @@ A collaborative robot (cobot) is an industrial robot that works together with hu
 Source: [Yaskawa - https://www.yaskawa.eu.com/products/robots/smart-series#learn](https://www.yaskawa.eu.com/products/robots/smart-series#learn)
 
 ## Applications
+
+
 
 ## Producers
 
