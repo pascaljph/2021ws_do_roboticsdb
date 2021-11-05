@@ -5,7 +5,7 @@
 ## Products and robot types
 
 ### Delivery Robots 
-A delivery robot come with different shape and sizes. Some robots deliver food and look like carts with wheels oder delivery robots look like humans. 
+A delivery robot come with different shape and sizes. Some robots deliver food and look like carts with wheels other delivery robots look like humans. 
 Delivery robots enhance the speed of delivery, lower labor costs and reliability. 
 
 <a href="https://ibb.co/k3Z01rf"><img src="https://i.ibb.co/xmZGHc0/Pizza-Delivery-Robot.jpg" alt="Pizza-Delivery-Robot" border="0"></a>
