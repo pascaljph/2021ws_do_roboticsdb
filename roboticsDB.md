@@ -11,6 +11,12 @@ Delivery robots enhance the speed of delivery, lower labor costs and reliability
 <a href="https://ibb.co/k3Z01rf"><img src="https://i.ibb.co/xmZGHc0/Pizza-Delivery-Robot.jpg" alt="Pizza-Delivery-Robot" border="0"></a>
 	[Example video of a food delivery](https://www.youtube.com/watch?v=13jqscTESNM)
 
+### Logistic robots 
+[Meet the Robots at Amazon](https://www.youtube.com/watchv=HSA5Bq-1fU4)
+
+<a href="https://ibb.co/qD2kc93"><img src="https://i.ibb.co/D1j5vkH/Robotsatamazon.jpg" alt="Robotsatamazon" border="0"></a>
+Amazon provides a good example of how humans and robots can work together harmoniously. In Amazons fulfilment centre robots and people work together to pick, sort and transport packages to get them to their customers on time. Moreover, robots can pick heavy items and bring products directly to employees. Therefore the employees can concentrate on more important task. 
+
 ### Collaborative robots
 A collaborative robot (cobot) is an industrial robot that works together with humans and is not separated from them in the production process by protective devices.
 
