@@ -99,7 +99,7 @@ Types of robots offered:
 | Founded:    | 1992
 | Employees:  | 212 (2019)
 
-[Evolution of Boston Dynamic robots (Youtube)](https://www.youtube.com/watch?v=D_Vc_yDvU24)
+[Evolution of Boston Dynamics robots (Youtube)](https://www.youtube.com/watch?v=D_Vc_yDvU24)
 
 [Atlas robot (Youtube)](https://www.youtube.com/watch?v=tF4DML7FIWk)
 
