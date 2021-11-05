@@ -51,7 +51,7 @@ Types of robots offered:
 * SCARA robots
 * Paint robots
 
-
+---
 ### Yaskawa Denki
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yaskawa_logo.svg/200px-Yaskawa_logo.svg.png)
@@ -70,10 +70,26 @@ Types of robots offered:
 * delta robots
 * SCARA robots
 * Paint robots
-
+---
 ### Franka Emika
+![Logo](https://www.franka.de/_nuxt/img/franka-emika-logo-small-blk.982c6ea.svg)
 
+| Overview    | Franka Emika 
+| ----------- | -----------
+| Headquarter:| Munich, Germany     
+| Revenue:    | 20,23 million € (2019)
+| Founded:    | 2016
+| Employees:  | 125+ (2021)
+
+Types of robots offered:
+* 7 axis robot
+* collaborative robot
+
+[Franka Emika Panda (Youtube)](https://www.youtube.com/watch?v=bXo68UFNyhk)
+
+---
 ### Boston Dynamics
+![Logo](https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Boston_Dynamics_Logo_2008.svg/250px-Boston_Dynamics_Logo_2008.svg.png)
 ##### Aquired by Hyundai Motor Company for $921M on Dec 9, 2020
 
 | Overview    | Boston Dynamics 
@@ -83,9 +99,15 @@ Types of robots offered:
 | Founded:    | 1992
 | Employees:  | 212 (2019)
 
+[Evolution of Boston Dynamic robots (Youtube)](https://www.youtube.com/watch?v=D_Vc_yDvU24)
+
+[Atlas robot (Youtube)](https://www.youtube.com/watch?v=tF4DML7FIWk)
+
 Sources:
 [Boston Dynamics](https://www.bostondynamics.com/)
 [Crunshbase](https://www.crunchbase.com/organization/boston-dynamics)
+
+---
 ### Robotic Applications in Automotive Manufacturing
 
 #### 1) Robotic Vision
