@@ -192,6 +192,44 @@ Sources:
 
 ---
 
+### Adept Technology Inc
+
+| Overview     | Adept Technology Inc
+| ------------ | -------------
+| Headquarters | U.S.A
+| Founded      | 1983
+| Employees    | 158
+
+Adept Technology Inc. has been an indusrty leader in the development of innovative and powerful industrial robots for high-speed, precision manufacturing, packaging, and factory automation. Adept's industrial robot innovations continue its expansive line of: 
+
+* Cobra SCARA Robots
+* Viper Six-Axis Robots 
+* Parallel Robots 
+
+Sources: 
+[Adept Technology Inc](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
+[Adept Technology Inc](https://www.plantautomation-technology.com/suppliers/adept-technology)
+
+---
+
+### Stäubli
+
+| Overview    | Stäubli
+| ----------- | ---------
+| Headquarters| Switzerland 
+| Founded     | 1892
+| Employees   | 5500
+
+Stäubli is a mechatronics solutions provider with three dedicated activities: Connectors, Robotics and Textile, serving customers who want to enhance their productivity in many industrial sectors. This company delivers innovative solutions to all industrial sectors across the globe. Stäubli provides a wide range of robots that covers all industries and applications.
+
+Product range:
+* Robot Arms
+* Robot Controllers
+* Robot Software 
+
+Sources:
+[Stäubli](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
+[Stäubli](https://www.staubli.com/fr-be/)
 ### Robotic Applications in Automotive Manufacturing
 
 #### 1) Robotic Vision
