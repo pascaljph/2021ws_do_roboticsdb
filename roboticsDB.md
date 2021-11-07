@@ -1,8 +1,14 @@
 # Robotics DB
 
+---
+
 ## Markets and market sizes
 
+---
+
 ## Products and robot types
+
+---
 
 ### Delivery Robots 
 A delivery robot come with different shape and sizes. Some robots deliver food and look like carts with wheels other delivery robots look like humans. 
@@ -10,6 +16,8 @@ Delivery robots enhance the speed of delivery, lower labor costs and reliability
 
 <a href="https://ibb.co/k3Z01rf"><img src="https://i.ibb.co/xmZGHc0/Pizza-Delivery-Robot.jpg" alt="Pizza-Delivery-Robot" border="0"></a>
 	[Example video of a food delivery](https://www.youtube.com/watch?v=13jqscTESNM)
+
+---
 
 ### Logistic robots 
 [Meet the Robots at Amazon](https://www.youtube.com/watchv=HSA5Bq-1fU4)
@@ -19,12 +27,16 @@ Amazon provides a good example of how humans and robots can work together harmon
 
 80% of the warehouses do not use automation or robotics. But Automated Guided Vehicles (AGVs) and Autonomous Mobile Robots (AMRs) are one of the fastest growing types of robots for transportation of goods at the moment. 
 
+---
+
 ### Collaborative robots
 A collaborative robot (cobot) is an industrial robot that works together with humans and is not separated from them in the production process by protective devices.
 
 ![](https://www.yaskawa.eu.com/Global%20Assets/Pictures/Products/Robotics/smartseries/Fenceless%20Production.JPG)
 
 Source: [Yaskawa - https://www.yaskawa.eu.com/products/robots/smart-series#learn](https://www.yaskawa.eu.com/products/robots/smart-series#learn)
+
+---
 
 ### Humanoid robots
 
@@ -36,12 +48,53 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 
 (Video-Link)
 
+---
 
 ## Applications
 
+---
 
+### Robots in Material Handling
+-----
+
+- Moves parts or products at scale - reducing changeover time.
+- Saving floorspace and maintaining consistency. 
+
+---
+
+### Robots for Logistics
+-----
+
+- A viable option for automation of complex tasks.
+- Exceeding speed and accuracy of manual labor.
+- Reducing worker injuries and product damage.
+
+---
+
+### Robots for Picking and Packing
+-----
+
+- Adds speed, flexibility and consistency to secondary packaging applications such as:
+
+	- tray packing
+	- tray handling
+	- case packing
+	- case erection and handling
+	- bottle packing
+	- shrink-wrapping
+	- pouch handling and more ....
+
+---
+
+### Robots for Palletizing
+-----
+[Palletizing continues to be one of the fastest growing robotic applications.](https://youtu.be/xrEbGtVxYUk)
+
+---
 
 ## Producers
+
+---
 
 ### ABB
 
@@ -63,6 +116,7 @@ Types of robots offered:
 * Paint robots
 
 ---
+
 ### Yaskawa Denki
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yaskawa_logo.svg/200px-Yaskawa_logo.svg.png)
@@ -81,7 +135,9 @@ Types of robots offered:
 * delta robots
 * SCARA robots
 * Paint robots
+
 ---
+
 ### Franka Emika
 ![Logo](https://www.franka.de/_nuxt/img/franka-emika-logo-small-blk.982c6ea.svg)
 
@@ -99,6 +155,7 @@ Types of robots offered:
 [Franka Emika Panda (Youtube)](https://www.youtube.com/watch?v=bXo68UFNyhk)
 
 ---
+
 ### Boston Dynamics
 ![Logo](https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Boston_Dynamics_Logo_2008.svg/250px-Boston_Dynamics_Logo_2008.svg.png)
 ##### Aquired by Hyundai Motor Company for $921M on Dec 9, 2020
@@ -119,6 +176,7 @@ Sources:
 [Crunshbase](https://www.crunchbase.com/organization/boston-dynamics)
 
 ---
+
 ### Robotic Applications in Automotive Manufacturing
 
 #### 1) Robotic Vision
