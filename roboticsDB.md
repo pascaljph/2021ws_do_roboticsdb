@@ -5,13 +5,15 @@
 ## Markets and market sizes
 
 ###  Market size
-The Global Robotics Market was valued at USD 27. 73 billion in 2020 and is expected to reach USD 74. 1 billion
- by 2026, registering a CAGR of 17. 45%, during the period of 2021-2026.The rising demand for industrial robots has been triggered by the workforce shortage,owing to the COVID-19 related lockdowns and an upgrade of traditional industries.
+Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a CAGR of over 15% between 2021 and 2030. The growing demand for UVC disinfection and service robots to mitigate the spread of COVID-19 virus and support public safety is driving the market growth globally.
 
-![](https://s3.mordorintelligence.com/robotics-market/1628758736050_robotics-market_Market_Summary.webp)
+
+![](https://cdn.gminsights.com/image/rd/electronics-and-media/robot-market.jpg)
+
+
 
 ### sources
-* https://www.mordorintelligence.com/industry-reports/robotics-market
+* https://www.gminsights.com/industry-analysis/robot-market
 
 
 
