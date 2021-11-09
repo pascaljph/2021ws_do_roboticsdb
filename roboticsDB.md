@@ -69,8 +69,51 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 
 ---
 
+### Robotic Applications in Automotive Manufacturing
+
+#### 1) Robotic Vision
+
+- [Automated vision](https://www.roboticstomorrow.com/article/2014/07/automated-vision-inspection-and-parts-traceability-in-automotive-assembly-process/4410/) with a camera for feedback
+- Perform proper offsetting when installing a part
+- Installation of: door panels, windshields, and fenders
+
+#### 2) Spot and Arc Welding
+
+- [Arc welding](https://www.youtube.com/watch?v=HUU3HdxOqZs)
+- [Spot welding](https://www.youtube.com/watch?v=v5wcRRdkrsU)
+- Preserving high welding standards 
+
+#### 3) Assembly
+
+- Assemble [smaller parts](https://www.automate.org/industry-insights/small-assembly-robots-with-big-gains) (motors and pumps) with [high speed (Example Mitsubishi)](https://www.youtube.com/watch?v=Hp3rN6_AS8k) 
+- Screw driving, windshield installation, wheel mounting
+
+#### 4) Paining, Sealing & Coating
+
+- [Cover large areas and limiting waste](https://www.youtube.com/watch?v=97KLjusbP2Y) (ABB & Volvo)
+- Spraying adhesives, sealants, and primers
+
+#### 5) Machine Tending and Part Transfer
+
+- Transferring metal stamps
+- Loading and unloading [CNC machines](https://meshautomationinc.com/robotic-machine-tending/cnc-load-and-unload/)
+- Pouring molten metal in a foundry
+
+#### 6) Materials Removal
+
+- [Trimming flash from plastic moldings](https://www.youtube.com/watch?v=QvPZhCkR3SU)
+- Polishing molds
+- Cutting fabric
+
+#### 7) Internal Logistics
+
+- Autonomous mobile robots (AMRs)
+- AMRs from Mobile Industrial Robots (MiR) to deliver on the factory floor ([Case Study: Ford](https://www.roboticsbusinessreview.com/case_studies/case-study-why-ford-deployed-amrs-to-automate-spanish-factory/))
+
+---
+
 ### Robots in Material Handling
------
+----
 
 - Moves parts or products at scale - reducing changeover time.
 - Saving floorspace and maintaining consistency. 
@@ -106,11 +149,44 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 [Palletizing continues to be one of the fastest growing robotic applications.](https://youtu.be/xrEbGtVxYUk)
 
 ---
+### Robots in Healthcare
+---
+- performance of surgerie/neurosurgerie with robots
+- streamlining supply delivery and disinfection
+- freeing up time for providers to engage with patients 
+- During COVID-19, deploying robots for tasks with direct patient contact 
 
-## Producers
+| Benefits | Risks and Challenges |
+| ---------| ------|
+| Quality patient care | Legal uncertainty in case of surgery accident |
+| Operational efficiency | High cost |
+| Safe work environment | Training for medical staff needed |
+
+[Want to see the Da Vinci surgical system in action?](https://www.youtube.com/watch?v=KNHgeykDXFw)
 
 ---
+### Robots in Agriculture
+---
+- Robots can support farmers by automating repetitve routine-tasks, improving efficiency through their accuracy and speed. 
 
+- Robot tasks in agriculture include: 
+	* Harvesting and picking
+	* Weed control
+	* Autonomous mowing, pruning, seeding, spraying and thinning
+	* Phenotyping
+	* Sorting and packing
+	* Utility platforms
+---
+### Robots in Military 
+---
+- Robots can be used in military to take over tasks that would be too dangerous for humans
+- They endure harsh conditions and traverse difficult terrain, which allows them to even operate under difficult circumstances
+
+- Despite numerous benefits, using robots in military does not come without ethical questions
+
+[Hellström, 2013: On the moral responsibility of military robots](https://link.springer.com/content/pdf/10.1007/s10676-012-9301-2.pdf)
+
+---
 ### ABB
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ABB_logo.svg/150px-ABB_logo.svg.png)
@@ -230,46 +306,8 @@ Product range:
 Sources:
 [Stäubli](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
 [Stäubli](https://www.staubli.com/fr-be/)
-### Robotic Applications in Automotive Manufacturing
 
-#### 1) Robotic Vision
 
-- [Automated vision](https://www.roboticstomorrow.com/article/2014/07/automated-vision-inspection-and-parts-traceability-in-automotive-assembly-process/4410/) with a camera for feedback
-- Perform proper offsetting when installing a part
-- Installation of: door panels, windshields, and fenders
-
-#### 2) Spot and Arc Welding
-
-- [Arc welding](https://www.youtube.com/watch?v=HUU3HdxOqZs)
-- [Spot welding](https://www.youtube.com/watch?v=v5wcRRdkrsU)
-- Preserving high welding standards 
-
-#### 3) Assembly
-
-- Assemble [smaller parts](https://www.automate.org/industry-insights/small-assembly-robots-with-big-gains) (motors and pumps) with [high speed (Example Mitsubishi)](https://www.youtube.com/watch?v=Hp3rN6_AS8k) 
-- Screw driving, windshield installation, wheel mounting
-
-#### 4) Paining, Sealing & Coating
-
-- [Cover large areas and limiting waste](https://www.youtube.com/watch?v=97KLjusbP2Y) (ABB & Volvo)
-- Spraying adhesives, sealants, and primers
-
-#### 5) Machine Tending and Part Transfer
-
-- Transferring metal stamps
-- Loading and unloading [CNC machines](https://meshautomationinc.com/robotic-machine-tending/cnc-load-and-unload/)
-- Pouring molten metal in a foundry
-
-#### 6) Materials Removal
-
-- [Trimming flash from plastic moldings](https://www.youtube.com/watch?v=QvPZhCkR3SU)
-- Polishing molds
-- Cutting fabric
-
-#### 7) Internal Logistics
-
-- Autonomous mobile robots (AMRs)
-- AMRs from Mobile Industrial Robots (MiR) to deliver on the factory floor ([Case Study: Ford](https://www.roboticsbusinessreview.com/case_studies/case-study-why-ford-deployed-amrs-to-automate-spanish-factory/))
 
 
 ### WHO
