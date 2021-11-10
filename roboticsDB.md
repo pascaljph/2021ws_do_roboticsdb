@@ -74,11 +74,14 @@ Source: [Yaskawa - https://www.yaskawa.eu.com/products/robots/smart-series#learn
 
 Tesla is already revealing initial concepts of a humanoid robot that will be able to perform repetitive, tedious and dangerous tasks.  Called "Tesla Bot," the robot is expected to be 1.70 m tall, weigh about 56 kg, carry a load of 20 kg and be able to lift nearly 70 kg from its cross. 
 
-(Bild)
+![Tesla](https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/1/5/6/0/6/6/teslabot-b9999fa31c66f3b2.jpeg?q=85&width=610)
 
 "Atlas" the humanoid robot from Bosten Dynamics already shows how far advanced research and this field is. For a better insight you will find below a link to a video in which the current development status of Atlas is presented.
 
-(Video-Link)
+![Atlas](https://pic1.zhimg.com/v2-389a9fed1cd44ab51534db07af3c2a91_720w.jpg?source=172ae18b)
+
+[Atlas parkour skills](https://winfuture.de/videos/Hardware/Boston-Dynamics-Atlas-Roboter-zeigt-beeindruckende-Parkour-Skills-22993.html)
+
 
 ---
 
