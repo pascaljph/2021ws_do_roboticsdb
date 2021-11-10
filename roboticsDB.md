@@ -11,7 +11,7 @@ Industrial robots are defined by their use in a manufacturing environment. Servi
 - Commercial service robots are used to perform a service in an industrial environment
 - Personal service robots are deployed in private households.
 
-Examples for End-Users of industrial robots
+Examples for End-Users of robots:
 
 Industrial Robots: Automotive, Food and Beverage, Electronics etc.
 
