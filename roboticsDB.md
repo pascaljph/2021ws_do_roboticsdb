@@ -4,6 +4,15 @@
 
 ## Markets and market sizes
 
+### Markets
+The robotic industry can be divided into industrial and service robotics. 
+
+Industrial robots are defined by their use in a manufacturing environment. Service robots are divided into commercial and personal robotics:
+- Commercial service robots are used to perform a service in an industrial environment
+- Personal service robots are deployed in private households.
+
+
+
 ###  Market size
 Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a CAGR of over 15% between 2021 and 2030. The growing demand for UVC disinfection and service robots to mitigate the spread of COVID-19 virus and support public safety is driving the market growth globally.
 
