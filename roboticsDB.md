@@ -26,9 +26,13 @@ Service Robots:   Logistics, Military and Defense, Medical and Healthcare etc.
 
 [Source](https://www.mordorintelligence.com/industry-reports/robotics-market)
 
-
+---
 ###  Market size
 Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a CAGR of over 15% between 2021 and 2030. The growing demand for UVC disinfection and service robots to mitigate the spread of COVID-19 virus and support public safety is driving the market growth globally.
+
+1.	Robotic Process Automation (RPA) Market is estimated to reach USD 2,467.0 million by 2022, at a CAGR of 30.14% between 2017 and 2022. The base year considered for the study is 2016 and the forecast period is between 2017 and 2022.
+
+1.	The industrial robotics market is projected to reach USD 75.3 billion by 2026, it is expected to grow at a CAGR of 12.3% from 2021 to 2026. 
 
 
 ![](https://cdn.gminsights.com/image/rd/electronics-and-media/robot-market.jpg)
@@ -37,7 +41,7 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 
 ### sources
 * https://www.gminsights.com/industry-analysis/robot-market
-
+* https://www.alliedmarketresearch.com/robotics-technology-market
 
 
 
@@ -90,6 +94,11 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 
 
 ---
+
+### Pre-Programmed Robots
+! []https://www.google.com/url?sa=i&url=https%3A%2F%2Fmark-youngson5.medium.com%2Frobotics-2d649025ba18&psig=AOvVaw0q2NYzeiG-rzg0Ayke2yqO&ust=1636660050046000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMictvnHjvQCFQAAAAAdAAAAABAE
+
+
 
 ## Applications
 
