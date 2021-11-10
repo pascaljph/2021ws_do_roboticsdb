@@ -18,8 +18,13 @@ Industrial Robots: Automotive, Food and Beverage, Electronics etc.
 Service Robots:   Logistics, Military and Defense, Medical and Healthcare etc.
 
 [Source](https://www.mordorintelligence.com/industry-reports/robotics-market)
- 
+
 ---
+ ### Development of the global market for robots
+
+![Growth Rate by Region](https://s3.mordorintelligence.com/robotics-market/robotics-market_1628762152705_pic_331.webp)
+
+[Source](https://www.mordorintelligence.com/industry-reports/robotics-market)
 
 
 ###  Market size
