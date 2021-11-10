@@ -96,7 +96,16 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 ---
 
 ### Pre-Programmed Robots
+* Pre programed robots can do work that pepole would get tired of repeating over and over. These robots never take a lunch break or any break! You might have to repair them once in a while. They also have very good accuracy.These robots can drive cars, make cars and even fix cars.
 
+* Pre-programmed robots operate in a controlled environment where they do simple, monotonous tasks. Examples of a pre-programmed robot would be:
+1. a mechanical arm on an automotive assembly line
+1. Factory robots
+1. The robot mip
+1. The cyber knife
+
+# Sources
+https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source
 
 
 ## Applications
@@ -342,7 +351,21 @@ Sources:
 [Stäubli](https://www.staubli.com/fr-be/)
 
 
+### SIEMENS 
 
+| Overview    | SIEMENS
+| ----------- | ---------
+| Headquarters| Germany
+| Founded     | 1870
+| Employees   | 90.000
+
+Siemens is a large company which is providing different robotics solutions.
+Siemens has innovative solutions in different branches like the industrial branche, health branche, Software Branche etc. 
+
+Product range:
+* Robot Design
+* Robot Management
+* Robot Software 
 
 ### WHO
 
