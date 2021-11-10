@@ -56,6 +56,10 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 A delivery robot come with different shape and sizes. Some robots deliver food and look like carts with wheels other delivery robots look like humans. 
 Delivery robots enhance the speed of delivery, lower labor costs and reliability. 
 
+These robotos are also known as autonomous robots:
+Autonomous robots operate independently of human operators. These robots are usually designed to carry out tasks in open environments that do not require human supervision
+
+
 <a href="https://ibb.co/k3Z01rf"><img src="https://i.ibb.co/xmZGHc0/Pizza-Delivery-Robot.jpg" alt="Pizza-Delivery-Robot" border="0"></a>
 	[Example video of a food delivery](https://www.youtube.com/watch?v=13jqscTESNM)
 
@@ -104,10 +108,12 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 1. The robot mip
 1. The cyber knife
 
+
+
 # Sources
 https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source
 
-
+---
 ## Applications
 
 ---
