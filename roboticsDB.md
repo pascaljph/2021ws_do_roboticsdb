@@ -96,7 +96,6 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 ---
 
 ### Pre-Programmed Robots
-! []https://www.google.com/url?sa=i&url=https%3A%2F%2Fmark-youngson5.medium.com%2Frobotics-2d649025ba18&psig=AOvVaw0q2NYzeiG-rzg0Ayke2yqO&ust=1636660050046000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMictvnHjvQCFQAAAAAdAAAAABAE
 
 
 
