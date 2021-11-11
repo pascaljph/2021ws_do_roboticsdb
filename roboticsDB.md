@@ -162,7 +162,7 @@ https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-sourc
 ---
 
 ### Robots in Material Handling
-----
+-----
 
 - Moves parts or products at scale - reducing changeover time.
 - Saving floorspace and maintaining consistency. 
