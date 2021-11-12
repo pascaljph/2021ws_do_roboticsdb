@@ -56,7 +56,7 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 A delivery robot come with different shape and sizes. Some robots deliver food and look like carts with wheels other delivery robots look like humans. 
 Delivery robots enhance the speed of delivery, lower labor costs and reliability. 
 
-These robotos are also known as autonomous robots:
+These robots are also known as autonomous robots:
 Autonomous robots operate independently of human operators. These robots are usually designed to carry out tasks in open environments that do not require human supervision
 
 
@@ -69,7 +69,7 @@ Autonomous robots operate independently of human operators. These robots are usu
 [Meet the Robots at Amazon](https://www.youtube.com/watchv=HSA5Bq-1fU4)
 
 <a href="https://ibb.co/qD2kc93"><img src="https://i.ibb.co/D1j5vkH/Robotsatamazon.jpg" alt="Robotsatamazon" border="0"></a>
-Amazon provides a good example of how humans and robots can work together harmoniously. In Amazons fulfilment centre robots and people work together to pick, sort and transport packages to get them to their customers on time. Moreover, robots can pick heavy items and bring products directly to employees. Therefore the employees can concentrate on more important task. 
+Amazon provides a good example of how humans and robots can work together harmoniously. In Amazons fulfillment centre robots and people work together to pick, sort and transport packages to get them to their customers on time. Moreover, robots can pick heavy items and bring products directly to employees. Therefore the employees can concentrate on more important task. 
 
 80% of the warehouses do not use automation or robotics. But Automated Guided Vehicles (AGVs) and Autonomous Mobile Robots (AMRs) are one of the fastest growing types of robots for transportation of goods at the moment. 
 
@@ -90,7 +90,7 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 
 ![Tesla](https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/3/1/5/6/0/6/6/teslabot-b9999fa31c66f3b2.jpeg?q=85&width=610)
 
-"Atlas" the humanoid robot from Bosten Dynamics already shows how far advanced research and this field is. For a better insight you will find below a link to a video in which the current development status of Atlas is presented.
+"Atlas" the humanoid robot from Boston Dynamics already shows how far advanced research and this field is. For a better insight you will find below a link to a video in which the current development status of Atlas is presented.
 
 ![Atlas](https://pic1.zhimg.com/v2-389a9fed1cd44ab51534db07af3c2a91_720w.jpg?source=172ae18b)
 
@@ -100,7 +100,7 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 ---
 
 ### Pre-Programmed Robots
-* Pre programed robots can do work that pepole would get tired of repeating over and over. These robots never take a lunch break or any break! You might have to repair them once in a while. They also have very good accuracy.These robots can drive cars, make cars and even fix cars.
+* Pre programed robots can do work that people would get tired of repeating over and over. These robots never take a lunch break or any break! You might have to repair them once in a while. They also have very good accuracy.These robots can drive cars, make cars and even fix cars.
 
 * Pre-programmed robots operate in a controlled environment where they do simple, monotonous tasks. Examples of a pre-programmed robot would be:
 1. a mechanical arm on an automotive assembly line
@@ -108,10 +108,34 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 1. The robot mip
 1. The cyber knife
 
-
+---
 
 # Sources
 https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source
+
+---
+
+### Domestic Robots
+
+In contrast to the other robots already presented in this document, there are some kinds of robot which find use in common households. Most have actually been in use for a few years already and have undergone a lot of changes since their first introduction to the market.
+
+![MowingSucks](https://media.istockphoto.com/photos/man-on-his-knees-with-his-lawnmower-picture-id95263914?b=1&k=20&m=95263914&s=170667a&w=0&h=8CQ8lkOgIHgZpSTCS0c4P7OGr5FLEmE1Fs8esfogg9s=)
+
+These Robots usually take over tasks which tend to be considered boring or repetitive, for example cleaning or landscaping. This has 2 main advantages. Firstly, these tasks are rather simple to automate. Secondly, due to the monotonous nature of these tasks the demand for an automatic solution was rather high.
+The first Household Robots therefore took over tasks such as trimming lawns, cleaning pools, or vacuuming rooms.
+
+Over the years, the functionality of these kinds of robots was improved. In the beginning, the robots would follow simple or rather random patterns until they were low on battery or 'considered' their work finished. Nowadays, they can map out certain areas, for example singular rooms or certain areas of lawn, which they will systematically take care of.
+
+![CleaningPlan](https://i.pinimg.com/564x/af/d0/56/afd0569d171da6ee3324e0761891e2c4.jpg)
+
+This allows the robots to be not only more time efficient but often times also more energy efficient.
+
+---
+
+# Sources
+
+http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-history-and-future/
+
 
 ---
 ## Applications
@@ -216,7 +240,7 @@ https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-sourc
 ---
 ### Robots in Agriculture
 ---
-- Robots can support farmers by automating repetitve routine-tasks, improving efficiency through their accuracy and speed. 
+- Robots can support farmers by automating repetitive routine-tasks, improving efficiency through their accuracy and speed. 
 
 - Robot tasks in agriculture include: 
 	* Harvesting and picking
@@ -325,7 +349,7 @@ Sources:
 | Founded      | 1983
 | Employees    | 158
 
-Adept Technology Inc. has been an indusrty leader in the development of innovative and powerful industrial robots for high-speed, precision manufacturing, packaging, and factory automation. Adept's industrial robot innovations continue its expansive line of: 
+Adept Technology Inc. has been an industry leader in the development of innovative and powerful industrial robots for high-speed, precision manufacturing, packaging, and factory automation. Adept's industrial robot innovations continue its expansive line of: 
 
 * Cobra SCARA Robots
 * Viper Six-Axis Robots 
@@ -366,7 +390,7 @@ Sources:
 | Employees   | 90.000
 
 Siemens is a large company which is providing different robotics solutions.
-Siemens has innovative solutions in different branches like the industrial branche, health branche, Software Branche etc. 
+Siemens has innovative solutions in different branches like the industrial sector, health sector, software sector etc. 
 
 Product range:
 * Robot Design
