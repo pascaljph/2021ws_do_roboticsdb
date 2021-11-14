@@ -20,6 +20,34 @@ Service Robots:   Logistics, Military and Defense, Medical and Healthcare etc.
 [Source](https://www.mordorintelligence.com/industry-reports/robotics-market)
 
 ---
+### Robot density - Key figure
+
+A kind of automation race has started in the world, because automation brings important competitive advantages. It is important for a country to know its state of development in the world in order to identify opportunities to implement automation strategies more effectively. One important indicator for this is robot density. This is calculated from the number of industrial robots in the operational inventory in relation to the number of employees. 
+This indicator makes it possible to compare nations of different sizes in the global automation race, even if they are of different sizes and the conditions are different in each case.
+Below you will find an overview of the regions with the highest robot density and thus the largest sales markets for robots.
+
+[Source](https://www.weka.de/einkauf-logistik/deutschland-unter-top-10-der-automatisierten-laender/)
+
+| Ranking  | Country  | Robot density |
+| :-----:|:--------:|            :-----:|
+| 1     | Singapore   | 918      |
+| 2     | South Korea |   868    |
+| 3     | Japan       |    364   |
+| 4     | Germany     | 346      |
+| 5     | Sweden      |   274    |
+| 6     | Denmark     |    243   |
+| 7     | Hong Kong   |   242    |
+| 8     | Taiwan      | 234      |
+| 9     | USA         |   228    |
+| 15    | China       |    187   |
+
+Example of 1st place :
+
+In Singapore, 918 robots account for every 10,000 employees, 75% of whom work in the electronics industry, with a focus on the manufacture of semiconductors and computer peripherals.
+
+[Source](https://zukunft-technik.de/roboterdichte/)
+
+---
  ### Development of the global market for robots
 
 ![Growth Rate by Region](https://s3.mordorintelligence.com/robotics-market/robotics-market_1628762152705_pic_331.webp)
