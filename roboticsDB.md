@@ -1,5 +1,14 @@
 # Robotics DB
 
+This is a students project from CBS International Business School in the class _Digital Organization_.
+
+This file contains for sections:
+
+[Market and market sizes](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#markets-and-market-sizes)
+[Product and robot types](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#products-and-robot-types)
+[Applications](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#applications)
+[Producers](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#producers)
+
 ---
 
 ## Markets and market sizes
@@ -21,9 +30,7 @@ Service Robots: Logistics, Military and Defense, Medical and Healthcare etc.
 
 [Source](https://www.mordorintelligence.com/industry-reports/robotics-market)
 
----
-
-### Robot density - Key figure
+### Robot density — key figures
 
 A kind of automation race has started in the world, because automation brings important competitive advantages. It is important for a country to know its state of development in the world in order to identify opportunities to implement automation strategies more effectively. One important indicator for this is robot density. This is calculated from the number of industrial robots in the operational inventory in relation to the number of employees.
 This indicator makes it possible to compare nations of different sizes in the global automation race, even if they are of different sizes and the conditions are different in each case.
@@ -50,15 +57,11 @@ In Singapore, 918 robots account for every 10,000 employees, 75% of whom work in
 
 [Source](https://zukunft-technik.de/roboterdichte/)
 
----
-
 ### Development of the global market for robots
 
 ![Growth Rate by Region](https://s3.mordorintelligence.com/robotics-market/robotics-market_1628762152705_pic_331.webp)
 
 [Source](https://www.mordorintelligence.com/industry-reports/robotics-market)
-
----
 
 ### Market size
 
@@ -70,10 +73,11 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 
 ![](https://cdn.gminsights.com/image/rd/electronics-and-media/robot-market.jpg)
 
-### sources
+Source:
 
-- https://www.gminsights.com/industry-analysis/robot-market
-- https://www.alliedmarketresearch.com/robotics-technology-market
++[https://www.gminsights.com/industry-analysis/robot-market](https://www.gminsights.com/industry-analysis/robot-market)
+
++[https://www.alliedmarketresearch.com/robotics-technology-market](https://www.alliedmarketresearch.com/robotics-technology-market)
 
 ---
 
@@ -93,8 +97,6 @@ Autonomous robots operate independently of human operators. These robots are usu
 <a href="https://ibb.co/k3Z01rf"><img src="https://i.ibb.co/xmZGHc0/Pizza-Delivery-Robot.jpg" alt="Pizza-Delivery-Robot" border="0"></a>
 [Example video of a food delivery](https://www.youtube.com/watch?v=13jqscTESNM)
 
----
-
 ### Logistic robots
 
 [Meet the Robots at Amazon](https://www.youtube.com/watchv=HSA5Bq-1fU4)
@@ -104,8 +106,6 @@ Amazon provides a good example of how humans and robots can work together harmon
 
 80% of the warehouses do not use automation or robotics. But Automated Guided Vehicles (AGVs) and Autonomous Mobile Robots (AMRs) are one of the fastest growing types of robots for transportation of goods at the moment.
 
----
-
 ### Collaborative robots
 
 A collaborative robot (cobot) is an industrial robot that works together with humans and is not separated from them in the production process by protective devices.
@@ -113,8 +113,6 @@ A collaborative robot (cobot) is an industrial robot that works together with hu
 ![](https://www.yaskawa.eu.com/Global%20Assets/Pictures/Products/Robotics/smartseries/Fenceless%20Production.JPG)
 
 Source: [Yaskawa - https://www.yaskawa.eu.com/products/robots/smart-series#learn](https://www.yaskawa.eu.com/products/robots/smart-series#learn)
-
----
 
 ### Humanoid robots
 
@@ -128,8 +126,6 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 
 [Atlas parkour skills](https://www.youtube.com/embed/tF4DML7FIWk)
 
----
-
 ### Pre-Programmed Robots
 
 - Pre programed robots can do work that people would get tired of repeating over and over. These robots never take a lunch break or any break! You might have to repair them once in a while. They also have very good accuracy.These robots can drive cars, make cars and even fix cars.
@@ -141,13 +137,7 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 1. The robot mip
 1. The cyber knife
 
----
-
-# Sources
-
-https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source
-
----
+Source: [https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source](https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source)
 
 ### Domestic Robots
 
@@ -164,17 +154,11 @@ Over the years, the functionality of these kinds of robots was improved. In the 
 
 This allows the robots to be not only more time efficient but often times also more energy efficient.
 
----
-
-# Sources
-
-http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-history-and-future/
+Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-history-and-future/](http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-history-and-future/)
 
 ---
 
 ## Applications
-
----
 
 ### Robotic Applications in Automotive Manufacturing
 
@@ -217,30 +201,18 @@ http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-h
 - Autonomous mobile robots (AMRs)
 - AMRs from Mobile Industrial Robots (MiR) to deliver on the factory floor ([Case Study: Ford](https://www.roboticsbusinessreview.com/case_studies/case-study-why-ford-deployed-amrs-to-automate-spanish-factory/))
 
----
-
 ### Robots in Material Handling
-
----
 
 - Moves parts or products at scale - reducing changeover time.
 - Saving floorspace and maintaining consistency.
 
----
-
 ### Robots for Logistics
-
----
 
 - A viable option for automation of complex tasks.
 - Exceeding speed and accuracy of manual labor.
 - Reducing worker injuries and product damage.
 
----
-
 ### Robots for Picking and Packing
-
----
 
 - Adds speed, flexibility and consistency to secondary packaging applications such as:
 
@@ -252,19 +224,11 @@ http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-h
   - shrink-wrapping
   - pouch handling and more ....
 
----
-
 ### Robots for Palletizing
-
----
 
 [Palletizing continues to be one of the fastest growing robotic applications.](https://youtu.be/xrEbGtVxYUk)
 
----
-
 ### Robots in Healthcare
-
----
 
 - performance of surgerie/neurosurgerie with robots
 - streamlining supply delivery and disinfection
@@ -279,11 +243,7 @@ http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-h
 
 [Want to see the Da Vinci surgical system in action?](https://www.youtube.com/watch?v=KNHgeykDXFw)
 
----
-
 ### Robots in Agriculture
-
----
 
 - Robots can support farmers by automating repetitive routine-tasks, improving efficiency through their accuracy and speed.
 
@@ -295,11 +255,7 @@ http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-h
   - Sorting and packing
   - Utility platforms
 
----
-
 ### Robots in Military
-
----
 
 - Robots can be used in military to take over tasks that would be too dangerous for humans
 - They endure harsh conditions and traverse difficult terrain, which allows them to even operate under difficult circumstances
@@ -308,7 +264,7 @@ http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-h
 
 [Hellström, 2013: On the moral responsibility of military robots](https://link.springer.com/content/pdf/10.1007/s10676-012-9301-2.pdf)
 
----
+## Producers
 
 ### ABB
 
@@ -330,73 +286,6 @@ Types of robots offered:
 - SCARA robots
 - Paint robots
 
----
-
-### Yaskawa Denki
-
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yaskawa_logo.svg/200px-Yaskawa_logo.svg.png)
-
-| Overview     | Yaskawa Denki        |
-| ------------ | -------------------- |
-| Headquarter: | Kitakyūshū, Japan    |
-| Revenue:     | $4.05 billion (2018) |
-| Founded:     | 1915                 |
-| Employees:   | 11,356 (2015)        |
-
-Types of robots offered:
-
-- 6 axis robots
-- 4 axis robots
-- collaborative robots
-- delta robots
-- SCARA robots
-- Paint robots
-
----
-
-### Franka Emika
-
-![Logo](https://www.franka.de/_nuxt/img/franka-emika-logo-small-blk.982c6ea.svg)
-
-| Overview     | Franka Emika           |
-| ------------ | ---------------------- |
-| Headquarter: | Munich, Germany        |
-| Revenue:     | 20,23 million € (2019) |
-| Founded:     | 2016                   |
-| Employees:   | 125+ (2021)            |
-
-Types of robots offered:
-
-- 7 axis robot
-- collaborative robot
-
-[Franka Emika Panda (Youtube)](https://www.youtube.com/watch?v=bXo68UFNyhk)
-
----
-
-### Boston Dynamics
-
-![Logo](https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Boston_Dynamics_Logo_2008.svg/250px-Boston_Dynamics_Logo_2008.svg.png)
-
-##### Aquired by Hyundai Motor Company for $921M on Dec 9, 2020
-
-| Overview        | Boston Dynamics                              |
-| --------------- | -------------------------------------------- |
-| Headquarters:   | Greater Boston Area, East Coast, New England |
-| Funding amount: | $37 million (2019)                           |
-| Founded:        | 1992                                         |
-| Employees:      | 212 (2019)                                   |
-
-[Evolution of Boston Dynamics robots (Youtube)](https://www.youtube.com/watch?v=D_Vc_yDvU24)
-
-[Atlas robot (Youtube)](https://www.youtube.com/watch?v=tF4DML7FIWk)
-
-Sources:
-[Boston Dynamics](https://www.bostondynamics.com/)
-[Crunshbase](https://www.crunchbase.com/organization/boston-dynamics)
-
----
-
 ### Adept Technology Inc
 
 | Overview     | Adept Technology Inc |
@@ -415,46 +304,44 @@ Sources:
 [Adept Technology Inc](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
 [Adept Technology Inc](https://www.plantautomation-technology.com/suppliers/adept-technology)
 
----
+### Boston Dynamics
 
-### Stäubli
+![Logo](https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Boston_Dynamics_Logo_2008.svg/250px-Boston_Dynamics_Logo_2008.svg.png)
 
-| Overview     | Stäubli     |
-| ------------ | ----------- |
-| Headquarters | Switzerland |
-| Founded      | 1892        |
-| Employees    | 5500        |
+Aquired by Hyundai Motor Company for $921M on Dec 9, 2020
 
-Stäubli is a mechatronics solutions provider with three dedicated activities: Connectors, Robotics and Textile, serving customers who want to enhance their productivity in many industrial sectors. This company delivers innovative solutions to all industrial sectors across the globe. Stäubli provides a wide range of robots that covers all industries and applications.
+| Overview        | Boston Dynamics                              |
+| --------------- | -------------------------------------------- |
+| Headquarters:   | Greater Boston Area, East Coast, New England |
+| Funding amount: | $37 million (2019)                           |
+| Founded:        | 1992                                         |
+| Employees:      | 212 (2019)                                   |
 
-Product range:
+[Evolution of Boston Dynamics robots (Youtube)](https://www.youtube.com/watch?v=D_Vc_yDvU24)
 
-- Robot Arms
-- Robot Controllers
-- Robot Software
+[Atlas robot (Youtube)](https://www.youtube.com/watch?v=tF4DML7FIWk)
 
 Sources:
-[Stäubli](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
-[Stäubli](https://www.staubli.com/fr-be/)
+[Boston Dynamics](https://www.bostondynamics.com/)
+[Crunshbase](https://www.crunchbase.com/organization/boston-dynamics)
 
-### SIEMENS
+### Franka Emika
 
-| Overview     | SIEMENS |
-| ------------ | ------- |
-| Headquarters | Germany |
-| Founded      | 1870    |
-| Employees    | 90.000  |
+![Logo](https://www.franka.de/_nuxt/img/franka-emika-logo-small-blk.982c6ea.svg)
 
-Siemens is a large company which is providing different robotics solutions.
-Siemens has innovative solutions in different branches like the industrial sector, health sector, software sector etc.
+| Overview     | Franka Emika           |
+| ------------ | ---------------------- |
+| Headquarter: | Munich, Germany        |
+| Revenue:     | 20,23 million € (2019) |
+| Founded:     | 2016                   |
+| Employees:   | 125+ (2021)            |
 
-Product range:
+Types of robots offered:
 
-- Robot Design
-- Robot Management
-- Robot Software
+- 7 axis robot
+- collaborative robot
 
----
+[Franka Emika Panda (Youtube)](https://www.youtube.com/watch?v=bXo68UFNyhk)
 
 ### Kuka AG
 
@@ -477,8 +364,6 @@ Video:
 Source:
 [Kuka](https://www.kuka.com/de-de/unternehmen/%C3%BCber-kuka)
 
----
-
 ### Moley Robotics
 
 | Overview     | Moley Robotics |
@@ -498,8 +383,59 @@ Video:
 Source:
 [Moley](https://moley.com/?target=kitchen_wizard)
 
-### WHO
+### SIEMENS
 
-### WHAT
+| Overview     | SIEMENS |
+| ------------ | ------- |
+| Headquarters | Germany |
+| Founded      | 1870    |
+| Employees    | 90.000  |
 
-### HOW
+Siemens is a large company which is providing different robotics solutions.
+Siemens has innovative solutions in different branches like the industrial sector, health sector, software sector etc.
+
+Product range:
+
+- Robot Design
+- Robot Management
+- Robot Software
+
+### Stäubli
+
+| Overview     | Stäubli     |
+| ------------ | ----------- |
+| Headquarters | Switzerland |
+| Founded      | 1892        |
+| Employees    | 5500        |
+
+Stäubli is a mechatronics solutions provider with three dedicated activities: Connectors, Robotics and Textile, serving customers who want to enhance their productivity in many industrial sectors. This company delivers innovative solutions to all industrial sectors across the globe. Stäubli provides a wide range of robots that covers all industries and applications.
+
+Product range:
+
+- Robot Arms
+- Robot Controllers
+- Robot Software
+
+Sources:
+[Stäubli](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
+[Stäubli](https://www.staubli.com/fr-be/)
+
+### Yaskawa Denki
+
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yaskawa_logo.svg/200px-Yaskawa_logo.svg.png)
+
+| Overview     | Yaskawa Denki        |
+| ------------ | -------------------- |
+| Headquarter: | Kitakyūshū, Japan    |
+| Revenue:     | $4.05 billion (2018) |
+| Founded:     | 1915                 |
+| Employees:   | 11,356 (2015)        |
+
+Types of robots offered:
+
+- 6 axis robots
+- 4 axis robots
+- collaborative robots
+- delta robots
+- SCARA robots
+- Paint robots
