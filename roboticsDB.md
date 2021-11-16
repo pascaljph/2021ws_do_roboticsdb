@@ -125,7 +125,7 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 
 ![Atlas](https://pic1.zhimg.com/v2-389a9fed1cd44ab51534db07af3c2a91_720w.jpg?source=172ae18b)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tF4DML7FIWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Atlas parkour skills](https://www.youtube.com/embed/tF4DML7FIWk)
 
 ---
 
