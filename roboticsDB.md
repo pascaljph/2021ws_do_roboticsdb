@@ -105,9 +105,14 @@ Also called: Motoman: L and Fanuc: J2
 * Axis 3:
 Responsible for the upper arm to raise and lower -> move vertical
 Also called: Motoman: U and Fanuc: J3 
+
 * Axis 4:
+Connection with Axis 5, Positioning end effector and manipulation of the part -> move circular
+Also called: Motoman: R and Fanuc: J4 
 
 * Axis 5:
+Responsible for the wrist to pitch and yaw -> move up/down
+Also called: Motoman: B and Fanuc: J5
 
 * Axis 6:
 
