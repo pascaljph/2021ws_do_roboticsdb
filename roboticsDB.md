@@ -94,11 +94,29 @@ In general, it is not that easy to categorize robots. Each of them has its own u
 
 Industrial robots conist of various axis. Most of the industrial robots have **six axis** (six degrees of freedom), as they are more flexible and perform a broad variety of application.
 
-- Axis 1:
-  Located at the base of the robot -> move left/right, rotate 180 degree from center
-  Also called: Motoman: S and Fanuc: J1.
+* Axis 1:
+Located at the base of the robot -> move left/right, rotate 180 degree from center
+Also called: Motoman: S and Fanuc: J1
 
-- Axis 2:
+* Axis 2:
+Responsible for the movement of the lower arm. -> move forward/backward
+Also called: Motoman: L and Fanuc: J2
+
+* Axis 3:
+Responsible for the upper arm to raise and lower -> move vertical
+Also called: Motoman: U and Fanuc: J3 
+
+* Axis 4:
+Connection with Axis 5, Positioning end effector and manipulation of the part -> move circular
+Also called: Motoman: R and Fanuc: J4 
+
+* Axis 5:
+Responsible for the wrist to pitch and yaw -> move up/down
+Also called: Motoman: B and Fanuc: J5
+
+* Axis 6:
+Wrist of the robot -> move circular (360 degree)
+Also called: Motoman: T and Fanuc: J6.
 
 [Video of a working 6-axis robot](https://www.youtube.com/watch?v=7coUcEHxnYA&t=59s)
 
