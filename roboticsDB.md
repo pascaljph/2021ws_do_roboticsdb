@@ -89,7 +89,7 @@ In general, it is not that easy to categorize robots. Each of them has its own u
 ### Industrial robots
 Industrial robots conist of various axis. Most of the industrial robots have six axis (six degrees of freedom), as they are more flexible and perform a broad variety of application.
 
-### Delivery Robots
+### Delivery robots
 
 A delivery robot come with different shape and sizes. Some robots deliver food and look like carts with wheels other delivery robots look like humans.
 Delivery robots enhance the speed of delivery, lower labor costs and reliability.
