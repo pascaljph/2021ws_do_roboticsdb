@@ -280,6 +280,28 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 
 [Hellström, 2013: On the moral responsibility of military robots](https://link.springer.com/content/pdf/10.1007/s10676-012-9301-2.pdf)
 
+### Human-Robot Collaboration
+
+The idea of a fully automated “lights-out factory” with no production workers — one requiring only machine programming and maintenance — has proven to be a dead end. So much of what happens in a factory requires human ingenuity, learning, and adaptability. As products have become more varied and customized to local markets and customer needs, the economics of full automation make no sense. The immense engineering costs and time required to bring up a fully automated line for a complex product can never be amortized before the product needs to be changed.
+
+To meet the challenges of the future companies need human-machine interaction through all phases of robotic automation and implementation. This would make for a faster setup, installment, commissioning, programming, operating and maintaining of products.
+
+Human-Robot Collaboration also called "Cobots" show great upsides in virtually every field one could imagine. Cobots enable versatile automation steps and increase productivity as it combines human capabilities with the efficiency and precision of a machine. Because of their integrated sensors, Cobots are able to automate delicate assembly tasks - ranging from assembling automotive transmissions through to inserting rubber plugs or handling flexible parts. But not everything is smooth sailing with Cobots as there are many safety concerns.
+
+![Logo](https://www.goeke-group.com/files/ibg/img/content/loesungen/Robotik/MRK/MRK-Mensch-Roboter-Kollaboration-Zusammenarbeit-Messeauftritt.jpg)
+
+Collaboration inevitably raises safety issues, and European legislation is very careful to promote the protection of workers, elderly and weak subjects as a top priority. End-users, robotics components manufacturers, and system integrators, safety has become a barrier to the promotion and availability of collaborative robotics technology in all domains.
+Some barriers are technical and arise to due to the complexity of robotics as reconfigurable systems that can change their behavior over time. Other barriers are non-technical and relate to understanding and correctly applying the current standards and directives to prove compliance. This is especially challenging for smaller companies.
+Cobots first have to be extensively trained through Machine Learning Algorithms as they have to learn to react to humans before they can start their work task learning.
+
+[How does Human-Robot Collaboration work?](https://youtu.be/02TzqIvWiso)
+
+[Simple automated tasks](https://youtu.be/9HWY-CLR3Co)
+
+| Overview     | Sources                                            |
+| ------------ | ----------------------                             |
+| Kuka:        | https://www.kuka.com/en-de/future-production/human-robot-collaboration                                           |
+| Frauenhofer: | https://www.iff.fraunhofer.de/en/business-units/robotic-systems/covr.html                                           |
 ## Producers
 
 ### ABB
@@ -371,6 +393,8 @@ Types of robots offered:
 
 Kuka is a world leader in manufactoring industrial robots and automative production lines with the focus on automotive industry, electronics industry,
 machine tool industry, food industry, plastics industry, medical technology. Welding, foundry and forging industries.
+
+KUKA is also working on Human-Robot Collaboration, a subsection of robotics which deals with cooperation between humans and robots, a hot topic in todays world. 
 
 Video:
 [45 KUKA robots weld lader frames for the automotive industry (Youtube)](https://www.youtube.com/watch?v=QCkl9RMd5-s)
