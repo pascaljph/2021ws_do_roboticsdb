@@ -441,8 +441,9 @@ machine tool industry, food industry, plastics industry, medical technology. Wel
 
 Video:
 [45 KUKA robots weld lader frames for the automotive industry  (Youtube)](https://www.youtube.com/watch?v=QCkl9RMd5-s)
-[The Duel: Timo Boll vs. KUKA Robot  (Youtube)] (https://www.youtube.com/watch?v=tIIJME8-au8)
-Sources:
+[The Duel: Timo Boll vs. KUKA Robot (Youtube)](ttps://www.youtube.com/watch?v=tIIJME8-au8)
+
+Source:
 [Kuka](https://www.kuka.com/de-de/unternehmen/%C3%BCber-kuka)
 
 ---
@@ -463,7 +464,7 @@ which are able to cook up to 5.000 different meals. The x-kitchen can be full up
 Video:
 [Watch your Moley Robotic Kitchen cook the perfect steak  (Youtube)](https://www.youtube.com/watch?v=i1GVwbYURuQ)
 
-Sources:
+Source:
 [Moley](https://moley.com/?target=kitchen_wizard)
 
 ### WHO
