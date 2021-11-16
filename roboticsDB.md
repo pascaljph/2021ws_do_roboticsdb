@@ -80,6 +80,7 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 ## Products and robot types
 
 ---
+In general, it is not that easy to categorize robots. Each of them has its own unique features, which various robots also share.
 
 ### Delivery Robots
 
