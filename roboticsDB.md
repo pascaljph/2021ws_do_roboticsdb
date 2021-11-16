@@ -1,5 +1,11 @@
 # Robotics DB
 
+This is a students project from CBS International Business School in the class _Digital Organization_.
+
+This file contains for sections:
+
+[Market and Market Sizes](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#markets-and-market-sizes)
+
 ---
 
 ## Markets and market sizes
