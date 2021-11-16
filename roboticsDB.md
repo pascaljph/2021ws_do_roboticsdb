@@ -120,6 +120,8 @@ Also called: Motoman: T and Fanuc: J6.
 
 [Video of a working 6-axis robot](https://www.youtube.com/watch?v=7coUcEHxnYA&t=59s)
 
+Source: https://www.robots.com/faq/what-are-six-axis-robots 
+
 ### Delivery robots
 
 A delivery robot come with different shape and sizes. Some robots deliver food and look like carts with wheels other delivery robots look like humans.
