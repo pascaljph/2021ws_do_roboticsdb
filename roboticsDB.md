@@ -115,9 +115,8 @@ Responsible for the wrist to pitch and yaw -> move up/down
 Also called: Motoman: B and Fanuc: J5
 
 * Axis 6:
-
-
-
+Wrist of the robot -> move circular (360 degree)
+Also called: Motoman: T and Fanuc: J6.
 
 [Video of a working 6-axis robot](https://www.youtube.com/watch?v=7coUcEHxnYA&t=59s)
 
