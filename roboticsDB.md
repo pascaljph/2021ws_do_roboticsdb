@@ -283,65 +283,6 @@ Types of robots offered:
 - SCARA robots
 - Paint robots
 
-### Yaskawa Denki
-
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yaskawa_logo.svg/200px-Yaskawa_logo.svg.png)
-
-| Overview     | Yaskawa Denki        |
-| ------------ | -------------------- |
-| Headquarter: | Kitakyūshū, Japan    |
-| Revenue:     | $4.05 billion (2018) |
-| Founded:     | 1915                 |
-| Employees:   | 11,356 (2015)        |
-
-Types of robots offered:
-
-- 6 axis robots
-- 4 axis robots
-- collaborative robots
-- delta robots
-- SCARA robots
-- Paint robots
-
-### Franka Emika
-
-![Logo](https://www.franka.de/_nuxt/img/franka-emika-logo-small-blk.982c6ea.svg)
-
-| Overview     | Franka Emika           |
-| ------------ | ---------------------- |
-| Headquarter: | Munich, Germany        |
-| Revenue:     | 20,23 million € (2019) |
-| Founded:     | 2016                   |
-| Employees:   | 125+ (2021)            |
-
-Types of robots offered:
-
-- 7 axis robot
-- collaborative robot
-
-[Franka Emika Panda (Youtube)](https://www.youtube.com/watch?v=bXo68UFNyhk)
-
-### Boston Dynamics
-
-![Logo](https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Boston_Dynamics_Logo_2008.svg/250px-Boston_Dynamics_Logo_2008.svg.png)
-
-##### Aquired by Hyundai Motor Company for $921M on Dec 9, 2020
-
-| Overview        | Boston Dynamics                              |
-| --------------- | -------------------------------------------- |
-| Headquarters:   | Greater Boston Area, East Coast, New England |
-| Funding amount: | $37 million (2019)                           |
-| Founded:        | 1992                                         |
-| Employees:      | 212 (2019)                                   |
-
-[Evolution of Boston Dynamics robots (Youtube)](https://www.youtube.com/watch?v=D_Vc_yDvU24)
-
-[Atlas robot (Youtube)](https://www.youtube.com/watch?v=tF4DML7FIWk)
-
-Sources:
-[Boston Dynamics](https://www.bostondynamics.com/)
-[Crunshbase](https://www.crunchbase.com/organization/boston-dynamics)
-
 ### Adept Technology Inc
 
 | Overview     | Adept Technology Inc |
@@ -360,42 +301,44 @@ Sources:
 [Adept Technology Inc](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
 [Adept Technology Inc](https://www.plantautomation-technology.com/suppliers/adept-technology)
 
-### Stäubli
+### Boston Dynamics
 
-| Overview     | Stäubli     |
-| ------------ | ----------- |
-| Headquarters | Switzerland |
-| Founded      | 1892        |
-| Employees    | 5500        |
+![Logo](https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Boston_Dynamics_Logo_2008.svg/250px-Boston_Dynamics_Logo_2008.svg.png)
 
-Stäubli is a mechatronics solutions provider with three dedicated activities: Connectors, Robotics and Textile, serving customers who want to enhance their productivity in many industrial sectors. This company delivers innovative solutions to all industrial sectors across the globe. Stäubli provides a wide range of robots that covers all industries and applications.
+Aquired by Hyundai Motor Company for $921M on Dec 9, 2020
 
-Product range:
+| Overview        | Boston Dynamics                              |
+| --------------- | -------------------------------------------- |
+| Headquarters:   | Greater Boston Area, East Coast, New England |
+| Funding amount: | $37 million (2019)                           |
+| Founded:        | 1992                                         |
+| Employees:      | 212 (2019)                                   |
 
-- Robot Arms
-- Robot Controllers
-- Robot Software
+[Evolution of Boston Dynamics robots (Youtube)](https://www.youtube.com/watch?v=D_Vc_yDvU24)
+
+[Atlas robot (Youtube)](https://www.youtube.com/watch?v=tF4DML7FIWk)
 
 Sources:
-[Stäubli](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
-[Stäubli](https://www.staubli.com/fr-be/)
+[Boston Dynamics](https://www.bostondynamics.com/)
+[Crunshbase](https://www.crunchbase.com/organization/boston-dynamics)
 
-### SIEMENS
+### Franka Emika
 
-| Overview     | SIEMENS |
-| ------------ | ------- |
-| Headquarters | Germany |
-| Founded      | 1870    |
-| Employees    | 90.000  |
+![Logo](https://www.franka.de/_nuxt/img/franka-emika-logo-small-blk.982c6ea.svg)
 
-Siemens is a large company which is providing different robotics solutions.
-Siemens has innovative solutions in different branches like the industrial sector, health sector, software sector etc.
+| Overview     | Franka Emika           |
+| ------------ | ---------------------- |
+| Headquarter: | Munich, Germany        |
+| Revenue:     | 20,23 million € (2019) |
+| Founded:     | 2016                   |
+| Employees:   | 125+ (2021)            |
 
-Product range:
+Types of robots offered:
 
-- Robot Design
-- Robot Management
-- Robot Software
+- 7 axis robot
+- collaborative robot
+
+[Franka Emika Panda (Youtube)](https://www.youtube.com/watch?v=bXo68UFNyhk)
 
 ### Kuka AG
 
@@ -436,3 +379,60 @@ Video:
 
 Source:
 [Moley](https://moley.com/?target=kitchen_wizard)
+
+### SIEMENS
+
+| Overview     | SIEMENS |
+| ------------ | ------- |
+| Headquarters | Germany |
+| Founded      | 1870    |
+| Employees    | 90.000  |
+
+Siemens is a large company which is providing different robotics solutions.
+Siemens has innovative solutions in different branches like the industrial sector, health sector, software sector etc.
+
+Product range:
+
+- Robot Design
+- Robot Management
+- Robot Software
+
+### Stäubli
+
+| Overview     | Stäubli     |
+| ------------ | ----------- |
+| Headquarters | Switzerland |
+| Founded      | 1892        |
+| Employees    | 5500        |
+
+Stäubli is a mechatronics solutions provider with three dedicated activities: Connectors, Robotics and Textile, serving customers who want to enhance their productivity in many industrial sectors. This company delivers innovative solutions to all industrial sectors across the globe. Stäubli provides a wide range of robots that covers all industries and applications.
+
+Product range:
+
+- Robot Arms
+- Robot Controllers
+- Robot Software
+
+Sources:
+[Stäubli](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
+[Stäubli](https://www.staubli.com/fr-be/)
+
+### Yaskawa Denki
+
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yaskawa_logo.svg/200px-Yaskawa_logo.svg.png)
+
+| Overview     | Yaskawa Denki        |
+| ------------ | -------------------- |
+| Headquarter: | Kitakyūshū, Japan    |
+| Revenue:     | $4.05 billion (2018) |
+| Founded:     | 1915                 |
+| Employees:   | 11,356 (2015)        |
+
+Types of robots offered:
+
+- 6 axis robots
+- 4 axis robots
+- collaborative robots
+- delta robots
+- SCARA robots
+- Paint robots
