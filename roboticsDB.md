@@ -4,7 +4,10 @@ This is a students project from CBS International Business School in the class _
 
 This file contains for sections:
 
-[Market and Market Sizes](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#markets-and-market-sizes)
+[Market and market sizes](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#markets-and-market-sizes)
+[Product and robot types](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#products-and-robot-types)
+[Applications](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#applications)
+[Producers](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#producers)
 
 ---
 
@@ -27,7 +30,7 @@ Service Robots: Logistics, Military and Defense, Medical and Healthcare etc.
 
 [Source](https://www.mordorintelligence.com/industry-reports/robotics-market)
 
-### Robot density - Key figure
+### Robot density — key figures
 
 A kind of automation race has started in the world, because automation brings important competitive advantages. It is important for a country to know its state of development in the world in order to identify opportunities to implement automation strategies more effectively. One important indicator for this is robot density. This is calculated from the number of industrial robots in the operational inventory in relation to the number of employees.
 This indicator makes it possible to compare nations of different sizes in the global automation race, even if they are of different sizes and the conditions are different in each case.
@@ -70,16 +73,17 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 
 ![](https://cdn.gminsights.com/image/rd/electronics-and-media/robot-market.jpg)
 
-### sources
+Source:
 
-- https://www.gminsights.com/industry-analysis/robot-market
-- https://www.alliedmarketresearch.com/robotics-technology-market
++[https://www.gminsights.com/industry-analysis/robot-market](https://www.gminsights.com/industry-analysis/robot-market)
+
++[https://www.alliedmarketresearch.com/robotics-technology-market](https://www.alliedmarketresearch.com/robotics-technology-market)
 
 ---
 
 ## Products and robot types
 
-### Delivery Robots
+### Delivery robots
 
 A delivery robot come with different shape and sizes. Some robots deliver food and look like carts with wheels other delivery robots look like humans.
 Delivery robots enhance the speed of delivery, lower labor costs and reliability.
