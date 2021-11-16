@@ -165,8 +165,6 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 
 ## Applications
 
----
-
 ### Robotic Applications in Automotive Manufacturing
 
 #### 1) Robotic Vision
@@ -208,30 +206,18 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 - Autonomous mobile robots (AMRs)
 - AMRs from Mobile Industrial Robots (MiR) to deliver on the factory floor ([Case Study: Ford](https://www.roboticsbusinessreview.com/case_studies/case-study-why-ford-deployed-amrs-to-automate-spanish-factory/))
 
----
-
 ### Robots in Material Handling
-
----
 
 - Moves parts or products at scale - reducing changeover time.
 - Saving floorspace and maintaining consistency.
 
----
-
 ### Robots for Logistics
-
----
 
 - A viable option for automation of complex tasks.
 - Exceeding speed and accuracy of manual labor.
 - Reducing worker injuries and product damage.
 
----
-
 ### Robots for Picking and Packing
-
----
 
 - Adds speed, flexibility and consistency to secondary packaging applications such as:
 
@@ -243,19 +229,11 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
   - shrink-wrapping
   - pouch handling and more ....
 
----
-
 ### Robots for Palletizing
-
----
 
 [Palletizing continues to be one of the fastest growing robotic applications.](https://youtu.be/xrEbGtVxYUk)
 
----
-
 ### Robots in Healthcare
-
----
 
 - performance of surgerie/neurosurgerie with robots
 - streamlining supply delivery and disinfection
@@ -270,11 +248,7 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 
 [Want to see the Da Vinci surgical system in action?](https://www.youtube.com/watch?v=KNHgeykDXFw)
 
----
-
 ### Robots in Agriculture
-
----
 
 - Robots can support farmers by automating repetitive routine-tasks, improving efficiency through their accuracy and speed.
 
@@ -286,11 +260,7 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
   - Sorting and packing
   - Utility platforms
 
----
-
 ### Robots in Military
-
----
 
 - Robots can be used in military to take over tasks that would be too dangerous for humans
 - They endure harsh conditions and traverse difficult terrain, which allows them to even operate under difficult circumstances
@@ -298,8 +268,6 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 - Despite numerous benefits, using robots in military does not come without ethical questions
 
 [Hellström, 2013: On the moral responsibility of military robots](https://link.springer.com/content/pdf/10.1007/s10676-012-9301-2.pdf)
-
----
 
 ### ABB
 
@@ -321,8 +289,6 @@ Types of robots offered:
 - SCARA robots
 - Paint robots
 
----
-
 ### Yaskawa Denki
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yaskawa_logo.svg/200px-Yaskawa_logo.svg.png)
@@ -343,8 +309,6 @@ Types of robots offered:
 - SCARA robots
 - Paint robots
 
----
-
 ### Franka Emika
 
 ![Logo](https://www.franka.de/_nuxt/img/franka-emika-logo-small-blk.982c6ea.svg)
@@ -362,8 +326,6 @@ Types of robots offered:
 - collaborative robot
 
 [Franka Emika Panda (Youtube)](https://www.youtube.com/watch?v=bXo68UFNyhk)
-
----
 
 ### Boston Dynamics
 
@@ -386,8 +348,6 @@ Sources:
 [Boston Dynamics](https://www.bostondynamics.com/)
 [Crunshbase](https://www.crunchbase.com/organization/boston-dynamics)
 
----
-
 ### Adept Technology Inc
 
 | Overview     | Adept Technology Inc |
@@ -405,8 +365,6 @@ Adept Technology Inc. has been an industry leader in the development of innovati
 Sources:
 [Adept Technology Inc](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
 [Adept Technology Inc](https://www.plantautomation-technology.com/suppliers/adept-technology)
-
----
 
 ### Stäubli
 
@@ -445,8 +403,6 @@ Product range:
 - Robot Management
 - Robot Software
 
----
-
 ### Kuka AG
 
 | Overview     | Kuka               |
@@ -468,8 +424,6 @@ Video:
 Source:
 [Kuka](https://www.kuka.com/de-de/unternehmen/%C3%BCber-kuka)
 
----
-
 ### Moley Robotics
 
 | Overview     | Moley Robotics |
@@ -488,9 +442,3 @@ Video:
 
 Source:
 [Moley](https://moley.com/?target=kitchen_wizard)
-
-### WHO
-
-### WHAT
-
-### HOW
