@@ -21,8 +21,6 @@ Service Robots: Logistics, Military and Defense, Medical and Healthcare etc.
 
 [Source](https://www.mordorintelligence.com/industry-reports/robotics-market)
 
----
-
 ### Robot density - Key figure
 
 A kind of automation race has started in the world, because automation brings important competitive advantages. It is important for a country to know its state of development in the world in order to identify opportunities to implement automation strategies more effectively. One important indicator for this is robot density. This is calculated from the number of industrial robots in the operational inventory in relation to the number of employees.
@@ -50,15 +48,11 @@ In Singapore, 918 robots account for every 10,000 employees, 75% of whom work in
 
 [Source](https://zukunft-technik.de/roboterdichte/)
 
----
-
 ### Development of the global market for robots
 
 ![Growth Rate by Region](https://s3.mordorintelligence.com/robotics-market/robotics-market_1628762152705_pic_331.webp)
 
 [Source](https://www.mordorintelligence.com/industry-reports/robotics-market)
-
----
 
 ### Market size
 
@@ -79,8 +73,6 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 
 ## Products and robot types
 
----
-
 ### Delivery Robots
 
 A delivery robot come with different shape and sizes. Some robots deliver food and look like carts with wheels other delivery robots look like humans.
@@ -92,8 +84,6 @@ Autonomous robots operate independently of human operators. These robots are usu
 <a href="https://ibb.co/k3Z01rf"><img src="https://i.ibb.co/xmZGHc0/Pizza-Delivery-Robot.jpg" alt="Pizza-Delivery-Robot" border="0"></a>
 [Example video of a food delivery](https://www.youtube.com/watch?v=13jqscTESNM)
 
----
-
 ### Logistic robots
 
 [Meet the Robots at Amazon](https://www.youtube.com/watchv=HSA5Bq-1fU4)
@@ -103,8 +93,6 @@ Amazon provides a good example of how humans and robots can work together harmon
 
 80% of the warehouses do not use automation or robotics. But Automated Guided Vehicles (AGVs) and Autonomous Mobile Robots (AMRs) are one of the fastest growing types of robots for transportation of goods at the moment.
 
----
-
 ### Collaborative robots
 
 A collaborative robot (cobot) is an industrial robot that works together with humans and is not separated from them in the production process by protective devices.
@@ -112,8 +100,6 @@ A collaborative robot (cobot) is an industrial robot that works together with hu
 ![](https://www.yaskawa.eu.com/Global%20Assets/Pictures/Products/Robotics/smartseries/Fenceless%20Production.JPG)
 
 Source: [Yaskawa - https://www.yaskawa.eu.com/products/robots/smart-series#learn](https://www.yaskawa.eu.com/products/robots/smart-series#learn)
-
----
 
 ### Humanoid robots
 
@@ -127,8 +113,6 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 
 [Atlas parkour skills](https://www.youtube.com/embed/tF4DML7FIWk)
 
----
-
 ### Pre-Programmed Robots
 
 - Pre programed robots can do work that people would get tired of repeating over and over. These robots never take a lunch break or any break! You might have to repair them once in a while. They also have very good accuracy.These robots can drive cars, make cars and even fix cars.
@@ -141,8 +125,6 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 1. The cyber knife
 
 Source: [https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source](https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source)
-
----
 
 ### Domestic Robots
 
@@ -268,6 +250,8 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 - Despite numerous benefits, using robots in military does not come without ethical questions
 
 [Hellström, 2013: On the moral responsibility of military robots](https://link.springer.com/content/pdf/10.1007/s10676-012-9301-2.pdf)
+
+## Producers
 
 ### ABB
 
