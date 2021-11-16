@@ -1,12 +1,15 @@
 # Robotics DB
 
-This is a students project from CBS International Business School in the class _Digital Organization_.
+This is a students project from CBS International Business School for the lecture _Digital Organization_.
 
 This file contains for sections:
 
 [Market and market sizes](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#markets-and-market-sizes)
+
 [Product and robot types](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#products-and-robot-types)
+
 [Applications](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#applications)
+
 [Producers](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#producers)
 
 ---
@@ -84,9 +87,11 @@ Source:
 ## Products and robot types
 
 ---
+
 In general, it is not that easy to categorize robots. Each of them has its own unique features, which various robots also share. In the following some important robot types are listed:
 
 ### Industrial robots
+
 Industrial robots conist of various axis. Most of the industrial robots have **six axis** (six degrees of freedom), as they are more flexible and perform a broad variety of application.
 
 * Axis 1:
@@ -109,8 +114,7 @@ Also called: Motoman: U and Fanuc: J3
 
 
 
- 
-[Video of a working 6-axis robot](https://www.youtube.com/watch?v=7coUcEHxnYA&t=59s) 
+[Video of a working 6-axis robot](https://www.youtube.com/watch?v=7coUcEHxnYA&t=59s)
 
 ### Delivery robots
 
