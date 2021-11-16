@@ -442,7 +442,7 @@ machine tool industry, food industry, plastics industry, medical technology. Wel
 Video:
 [45 KUKA robots weld lader frames for the automotive industry  (Youtube)](https://www.youtube.com/watch?v=QCkl9RMd5-s)
 
-[The Duel: Timo Boll vs. KUKA Robot (Youtube)](ttps://www.youtube.com/watch?v=tIIJME8-au8)
+[The Duel: Timo Boll vs. KUKA Robot (Youtube)](https://www.youtube.com/watch?v=tIIJME8-au8)
 
 Source:
 [Kuka](https://www.kuka.com/de-de/unternehmen/%C3%BCber-kuka)
