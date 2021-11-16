@@ -425,6 +425,47 @@ Product range:
 * Robot Management
 * Robot Software 
 
+---
+### Kuka AG
+
+| Overview    | Kuka
+| ----------- | ---------
+| Headquarters| Augsburg / Germany
+| Founded     | 1898
+| Employees   | 14.000
+| Group       | Midea
+| Revenue     | 2,6 billion €
+
+Kuka is a world leader in manufactoring industrial robots and automative production lines with the focus on automotive industry, electronics industry, 
+machine tool industry, food industry, plastics industry, medical technology. Welding, foundry and forging industries.
+
+Video:
+[45 KUKA robots weld lader frames for the automotive industry  (Youtube)](https://www.youtube.com/watch?v=QCkl9RMd5-s)
+[The Duel: Timo Boll vs. KUKA Robot  (Youtube)] (https://www.youtube.com/watch?v=tIIJME8-au8)
+Sources:
+[Kuka](https://www.kuka.com/de-de/unternehmen/%C3%BCber-kuka)
+
+---
+
+### Moley Robotics
+
+| Overview    | Moley Robotics
+| ----------- | ---------
+| Headquarters| London / UK
+| Founded     | 2015
+
+Moley Robotics is a Startup which focuses on developing the first robotic kitchen based on a multifunctional cooking platform.
+The products are called X-kitchen and R-kitchen. 
+X-kitchen is an IoT plattform with a smart fridge and storage in addition to the cooking area. 
+R-kitchen includes two robotic arms and five-finger hands equipped with tactile sensors 
+which are able to cook up to 5.000 different meals. The x-kitchen can be full upgraded to an R-Kitchen
+
+Video:
+[Watch your Moley Robotic Kitchen cook the perfect steak  (Youtube)](https://www.youtube.com/watch?v=i1GVwbYURuQ)
+
+Sources:
+[Moley](https://moley.com/?target=kitchen_wizard)
+
 ### WHO
 
 ### WHAT
