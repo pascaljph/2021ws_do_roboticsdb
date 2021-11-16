@@ -1,6 +1,6 @@
 # Robotics DB
 
-This is a students project from CBS International Business School in the class _Digital Organization_.
+This is a students project from CBS International Business School for the lecture _Digital Organization_.
 
 This file contains for sections:
 
