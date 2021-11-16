@@ -87,7 +87,7 @@ Source:
 In general, it is not that easy to categorize robots. Each of them has its own unique features, which various robots also share. In the following some important robot types are listed:
 
 ### Industrial robots
-Industrial robots conist of various axis. Most of the industrial robots have six axis (six degrees of freedom), as they are more flexible and perform a broad variety of application.
+Industrial robots conist of various axis. Most of the industrial robots have **six axis** (six degrees of freedom), as they are more flexible and perform a broad variety of application.
 
 * Axis 1:
 Located at the base of the robot -> move left/right, rotate 180 degree from center
@@ -96,6 +96,7 @@ Also called: Motoman: S and Fanuc: J1.
 * Axis 2:
 
  
+[Video of a working 6-axis robot](https://www.youtube.com/watch?v=7coUcEHxnYA&t=59s) 
 
 ### Delivery robots
 
