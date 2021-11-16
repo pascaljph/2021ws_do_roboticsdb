@@ -140,7 +140,7 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 1. The robot mip
 1. The cyber knife
 
-Sources: [https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source](https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source)
+Source: [https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source](https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source)
 
 ---
 
@@ -159,11 +159,7 @@ Over the years, the functionality of these kinds of robots was improved. In the 
 
 This allows the robots to be not only more time efficient but often times also more energy efficient.
 
----
-
-# Sources
-
-http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-history-and-future/
+Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-history-and-future/](http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-history-and-future/)
 
 ---
 
