@@ -140,11 +140,7 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 1. The robot mip
 1. The cyber knife
 
----
-
-# Sources
-
-https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source
+Sources: [https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source](https://edu.glogster.com/glog/pre-programmed-robots/23s7cv8m6xo?=glogpedia-source)
 
 ---
 
