@@ -118,6 +118,8 @@ Also called: Motoman: B and Fanuc: J5
 Wrist of the robot -> move circular (360 degree)
 Also called: Motoman: T and Fanuc: J6.
 
+![Industrial robots](Industrierobotik.jpg) 
+
 [Video of a working 6-axis robot](https://www.youtube.com/watch?v=7coUcEHxnYA&t=59s)
 
 Source: https://www.robots.com/faq/what-are-six-axis-robots 
