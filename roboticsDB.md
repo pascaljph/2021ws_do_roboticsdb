@@ -74,7 +74,31 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 
 1. The industrial robotics market is projected to reach USD 75.3 billion by 2026, it is expected to grow at a CAGR of 12.3% from 2021 to 2026.
 
+---
+
+* This video gives us a Market Forecast for 2024
+! [](https://www.youtube.com/watch?v=NgpDoQ6Vu7I)
+
+---
+
+##### Size of the global market for industrial robots
+* This table shows the revenue from 2018-2028
+! [](https://www.statista.com/statistics/760190/worldwide-robotics-market-revenue/)
+
+---
+
+##### Global market leader 
+* Asia remains the strongest market for industrial robots
+* Followed by the United States and than Europe
+* This table shows the 15 largest markets
+![](https://ifr.org/ifr-press-releases/news/record-2.7-million-robots-work-in-factories-around-the-globe)
+
+
+---
+
 ![](https://cdn.gminsights.com/image/rd/electronics-and-media/robot-market.jpg)
+
+---
 
 Source:
 
@@ -302,6 +326,14 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 
 [Hellström, 2013: On the moral responsibility of military robots](https://link.springer.com/content/pdf/10.1007/s10676-012-9301-2.pdf)
 
+---
+### Robots in Military 
+- The following video shows 5 examples of robots in the military field 
+- Tank Robots, Robot Dogs, Unmanned Vehicles | Military Robots
+! [](https://www.youtube.com/watch?v=uXGj1kZnFEg)
+
+---
+
 ### Human-Robot Collaboration
 
 The idea of a fully automated “lights-out factory” with no production workers — one requiring only machine programming and maintenance — has proven to be a dead end. So much of what happens in a factory requires human ingenuity, learning, and adaptability. As products have become more varied and customized to local markets and customer needs, the economics of full automation make no sense. The immense engineering costs and time required to bring up a fully automated line for a complex product can never be amortized before the product needs to be changed.
@@ -461,6 +493,12 @@ Product range:
 - Robot Design
 - Robot Management
 - Robot Software
+
+### Short Clips of Siemens and Robotics
+! [](https://www.youtube.com/watch?v=yW7c6AyElY0)
+! [](https://www.youtube.com/watch?v=xz7_bpBw3WE)
+! [](https://www.youtube.com/watch?v=oOm8kAT_glw)
+
 
 ### Stäubli
 
