@@ -551,7 +551,7 @@ Types of robots offered:
 
 ##Fruitcore robotics
 Fruitcore: The Horst makers from 
-Germany are newcomer in the robotics industry. Fruitcore Robotics has quickly conquered the market for its Horst industrial robot, which is easy to operate and inexpensive. The Horst family includes three models that can carry from 3 kg to 10 kilograms. Target applications include machine loading and feeding tasks, pick-and-place robotics for logistics. The small Horst is also available in a laboratory version and costs around 10,000 euros.
+Germany are newcomer in the robotics industry. Fruitcore Robotics has quickly conquered the market for its Horst industrial robot, which is easy to operate and inexpensive. The Horst family includes three models that can carry from 3 kg to 10 kilograms. Target applications include machine loading and feeding tasks, pick-and-place robotics for logistics. The small Horst costs around 10,000 euros.
 
 [Fruitcore robotics](https://fruitcore-robotics.com/)
 
