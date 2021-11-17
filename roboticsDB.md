@@ -549,6 +549,12 @@ Types of robots offered:
 - SCARA robots
 - Paint robots
 
+##Fruitcore robotics
+Fruitcore: The Horst makers from 
+Germany are newcomer in the robotics industry. Fruitcore Robotics has quickly conquered the market for its Horst industrial robot, which is easy to operate and inexpensive. The Horst family includes three models that can carry from 3 kg to 10 kilograms. Target applications include machine loading and feeding tasks, pick-and-place robotics for logistics. The small Horst is also available in a laboratory version and costs around 10,000 euros.
+
+[Fruitcore robotics](https://fruitcore-robotics.com/)
+
 ### Short Clips of Yaskawa and Robotics
 ! [Neueröffnung](https://www.youtube.com/watch?v=zZLm2-bb3jc)
 ! [Imagefilm](https://www.youtube.com/watch?v=g8kr1rnyQiE)
