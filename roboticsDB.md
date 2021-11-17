@@ -77,13 +77,13 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 ---
 
 * This video gives us a Market Forecast for 2024
-! [](https://www.youtube.com/watch?v=NgpDoQ6Vu7I)
+![Market report 2024](https://www.youtube.com/watch?v=NgpDoQ6Vu7I)
 
 ---
 
 ##### Size of the global market for industrial robots
 * This table shows the revenue from 2018-2028
-! [](https://www.statista.com/statistics/760190/worldwide-robotics-market-revenue/)
+! [Statista](https://www.statista.com/statistics/760190/worldwide-robotics-market-revenue/)
 
 ---
 
@@ -91,12 +91,12 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 * Asia remains the strongest market for industrial robots
 * Followed by the United States and than Europe
 * This table shows the 15 largest markets
-![](https://ifr.org/ifr-press-releases/news/record-2.7-million-robots-work-in-factories-around-the-globe)
+![largest market](https://ifr.org/ifr-press-releases/news/record-2.7-million-robots-work-in-factories-around-the-globe)
 
 
 ---
 
-![](https://cdn.gminsights.com/image/rd/electronics-and-media/robot-market.jpg)
+![Robot market](https://cdn.gminsights.com/image/rd/electronics-and-media/robot-market.jpg)
 
 ---
 
@@ -330,7 +330,7 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 ### Robots in Military 
 - The following video shows 5 examples of robots in the military field 
 - Tank Robots, Robot Dogs, Unmanned Vehicles | Military Robots
-! [](https://www.youtube.com/watch?v=uXGj1kZnFEg)
+! [most advanced robotics](https://www.youtube.com/watch?v=uXGj1kZnFEg)
 
 ---
 
@@ -494,6 +494,10 @@ Product range:
 - Robot Management
 - Robot Software
 
+Sources:
+![Siemens](https://www.siemens-healthineers.com/de/laboratory-automation/advanced-robotic-solutions)
+![Siemens](https://new.siemens.com/de/de/produkte/automatisierung/industrie-software/automatisierungs-software/tia-portal/highlights/roboterintegration.html)
+
 ### Short Clips of Siemens and Robotics
 ! [](https://www.youtube.com/watch?v=yW7c6AyElY0)
 ! [](https://www.youtube.com/watch?v=xz7_bpBw3WE)
@@ -520,6 +524,10 @@ Sources:
 [Stäubli](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
 [Stäubli](https://www.staubli.com/fr-be/)
 
+### Short Clips of Stäubli and Robotics
+![2021](https://www.youtube.com/watch?v=eEsT7I_kV8k)
+![2018](https://www.youtube.com/watch?v=mF9rCjtdM8I)
+
 ### Yaskawa Denki
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yaskawa_logo.svg/200px-Yaskawa_logo.svg.png)
@@ -540,6 +548,10 @@ Types of robots offered:
 - SCARA robots
 - Paint robots
 
+### Short Clips of Yaskawa and Robotics
+! [Neueröffnung](https://www.youtube.com/watch?v=zZLm2-bb3jc)
+! [Imagefilm](https://www.youtube.com/watch?v=g8kr1rnyQiE)
+
 ### Hahn Group
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HAHN-GROUP_Logo.png/800px-HAHN-GROUP_Logo.png)
@@ -556,3 +568,9 @@ The Hahn Group GmbH is a group of companies that specialize in industrial automa
 The Hahn Groups has expertise in Assembly and Testing, Material Handling, Robotics and Process Technologies. The companies develop, build and integrate custom-engineered, high performance automation and robot solutions for manufacturing companies.
 
 They have standardized multiple robot applications and are currently selling 8 different automated robots that deal with lifting and handling of different plastic and metal pieces as well as oil pumps.
+
+## Fruitcore robotics
+Fruitcore: The Horst makers from 
+Germany are newcomer in the robotics industry. Fruitcore Robotics has quickly conquered the market for its Horst industrial robot, which is easy to operate and inexpensive. The Horst family includes three models that can carry from 3 kg to 10 kilograms. Target applications include machine loading and feeding tasks, pick-and-place robotics for logistics. The small Horst costs around 10,000 euros.
+
+[Fruitcore robotics](https://fruitcore-robotics.com/)
