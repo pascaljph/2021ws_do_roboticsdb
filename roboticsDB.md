@@ -225,11 +225,12 @@ In contrast to the other robots already presented in this document, there are so
 These Robots usually take over tasks which tend to be considered boring or repetitive, for example cleaning or landscaping. This has 2 main advantages. Firstly, these tasks are rather simple to automate. Secondly, due to the monotonous nature of these tasks the demand for an automatic solution was rather high.
 The first Household Robots therefore took over tasks such as trimming lawns, cleaning pools, or vacuuming rooms.
 
-Over the years, the functionality of these kinds of robots was improved. In the beginning, the robots would follow simple or rather random patterns until they were low on battery or 'considered' their work finished. Nowadays, they can map out certain areas, for example singular rooms or certain areas of lawn, which they will systematically take care of.
+Over the years, the functionality of these kinds of robots was improved massively. In the beginning, the robots would follow simple or rather random patterns until they were low on battery or 'considered' their work finished, with no way or means to actually measure their success. Nowadays, they can map out certain areas, for example singular rooms or certain areas of lawn, which they will systematically take care of.
 
 ![CleaningPlan](https://i.pinimg.com/564x/af/d0/56/afd0569d171da6ee3324e0761891e2c4.jpg)
 
-This allows the robots to be not only more time efficient but often times also more energy efficient.
+The picture above displays an exemplary pattern which a vacuuming / cleaning robot could follow to systematically clean an apartment.
+By following such a work pattern, the robot is not only able to be more time efficient but often times also more energy efficient, in comparison to a robot working without following such a pattern.
 
 Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-history-and-future/](http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-history-and-future/)
 
@@ -244,6 +245,10 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 - [Automated vision](https://www.roboticstomorrow.com/article/2014/07/automated-vision-inspection-and-parts-traceability-in-automotive-assembly-process/4410/) with a camera for feedback
 - Perform proper offsetting when installing a part
 - Installation of: door panels, windshields, and fenders
+
+![AutomatedVision](https://www.roboticstomorrow.com/images/upload/images/34261895.jpg)
+
+The picture displays a camera connected to a robotic arm, inspecting products on an assembly line for faults.
 
 #### 2) Spot and Arc Welding
 
