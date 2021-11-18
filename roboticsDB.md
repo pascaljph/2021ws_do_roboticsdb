@@ -348,6 +348,8 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
   - Sorting and packing
   - Utility platforms
 
+[Agricultural robots as the future of job creation](https://www.automate.org/blogs/agricultural-robots-the-future-of-job-creation)
+
 ### Robots in Military
 
 - Robots can be used in military to take over tasks that would be too dangerous for humans
@@ -408,6 +410,8 @@ Types of robots offered:
 - delta robots
 - SCARA robots
 - Paint robots
+
+[ABB](https://new.abb.com/products/robotics/)
 
 ### Adept Technology Inc
 
@@ -530,10 +534,9 @@ Sources:
 ![Siemens](https://new.siemens.com/de/de/produkte/automatisierung/industrie-software/automatisierungs-software/tia-portal/highlights/roboterintegration.html)
 
 ### Short Clips of Siemens and Robotics
-! [](https://www.youtube.com/watch?v=yW7c6AyElY0)
-! [](https://www.youtube.com/watch?v=xz7_bpBw3WE)
-! [](https://www.youtube.com/watch?v=oOm8kAT_glw)
-
+! [Clip 1](https://www.youtube.com/watch?v=yW7c6AyElY0)
+! [Clip 2](https://www.youtube.com/watch?v=xz7_bpBw3WE)
+! [Clip 3](https://www.youtube.com/watch?v=oOm8kAT_glw)
 
 ### Stäubli
 
@@ -579,6 +582,8 @@ Types of robots offered:
 - SCARA robots
 - Paint robots
 
+[Yaskawa](https://www.yaskawa.de/)
+
 ### Short Clips of Yaskawa and Robotics
 ! [Neueröffnung](https://www.youtube.com/watch?v=zZLm2-bb3jc)
 ! [Imagefilm](https://www.youtube.com/watch?v=g8kr1rnyQiE)
@@ -599,6 +604,8 @@ The Hahn Group GmbH is a group of companies that specialize in industrial automa
 The Hahn Groups has expertise in Assembly and Testing, Material Handling, Robotics and Process Technologies. The companies develop, build and integrate custom-engineered, high performance automation and robot solutions for manufacturing companies.
 
 They have standardized multiple robot applications and are currently selling 8 different automated robots that deal with lifting and handling of different plastic and metal pieces as well as oil pumps.
+
+[Hahn Group](https://www.hahn.group/)
 
 ## Fruitcore robotics
 Fruitcore: The Horst makers from 
