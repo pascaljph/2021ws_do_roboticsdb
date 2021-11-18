@@ -246,9 +246,6 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 - Perform proper offsetting when installing a part
 - Installation of: door panels, windshields, and fenders
 
-![AutomatedVision](https://www.roboticstomorrow.com/images/upload/images/34261895.jpg)
-
-The picture displays a camera connected to a robotic arm, inspecting products on an assembly line for faults.
 
 #### 2) Spot and Arc Welding
 
