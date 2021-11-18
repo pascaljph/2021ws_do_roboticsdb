@@ -263,8 +263,6 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 - Autonomous mobile robots (AMRs)
 - AMRs from Mobile Industrial Robots (MiR) to deliver on the factory floor ([Case Study: Ford](https://www.roboticsbusinessreview.com/case_studies/case-study-why-ford-deployed-amrs-to-automate-spanish-factory/))
 
----
-
 ### Warehouse Automation by Robots
 
 [FLEXIBLE WAREHOUSE AUTOMATION](https://www.bostondynamics.com/stretch/resources/flexible-warehouse-automation)
@@ -274,11 +272,19 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 - Moves parts or products at scale - reducing changeover time.
 - Saving floor-space and maintaining consistency.
 
+[REDUCE LABOR COSTS WITH AUTOMATION](https://robotics.kawasaki.com/en1/applications/robotic-material-handling/)
+
 ### Robots for Logistics
 
 - A viable option for automation of complex tasks.
 - Exceeding speed and accuracy of manual labor.
 - Reducing worker injuries and product damage.
+
+[Robots in Logistics: Order Fulfillment](https://www.youtube.com/watch?v=d9PVkOjz1ow)
+
+![pic](https://www.automate.org/userAssets/a3/a3Uploads/emerging-markets/images/robotics/logistics.jpg)
+
+[source](https://www.automate.org/a3-content/service-robots-logistic-robots)
 
 ### Robots for Picking and Packing
 
@@ -291,6 +297,8 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
   - bottle packing
   - shrink-wrapping
   - pouch handling and more ....
+
+  [Human-Robot Collaborative Packing with Motoman HC Series Cobots](https://www.youtube.com/watch?v=iq4tnnUOG0I&list=TLGGyx2PXfEt9AIxODExMjAyMQ)
 
 ### Robots for Palletizing
 
