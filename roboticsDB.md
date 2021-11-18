@@ -263,10 +263,16 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 - Autonomous mobile robots (AMRs)
 - AMRs from Mobile Industrial Robots (MiR) to deliver on the factory floor ([Case Study: Ford](https://www.roboticsbusinessreview.com/case_studies/case-study-why-ford-deployed-amrs-to-automate-spanish-factory/))
 
+---
+
+### Warehouse Automation by Robots
+
+[FLEXIBLE WAREHOUSE AUTOMATION](https://www.bostondynamics.com/stretch/resources/flexible-warehouse-automation)
+
 ### Robots in Material Handling
 
 - Moves parts or products at scale - reducing changeover time.
-- Saving floorspace and maintaining consistency.
+- Saving floor-space and maintaining consistency.
 
 ### Robots for Logistics
 
