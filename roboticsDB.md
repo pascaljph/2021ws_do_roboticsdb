@@ -77,7 +77,8 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 ---
 
 * This video gives us a Market Forecast for 2024
-![Market report 2024](https://www.youtube.com/watch?v=NgpDoQ6Vu7I)
+
+[Market report 2024](https://www.youtube.com/watch?v=NgpDoQ6Vu7I)
 
 ---
 
