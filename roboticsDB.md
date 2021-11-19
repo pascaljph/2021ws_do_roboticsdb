@@ -605,7 +605,7 @@ The Hahn Groups has expertise in Assembly and Testing, Material Handling, Roboti
 
 They have standardized multiple robot applications and are currently selling 8 different automated robots that deal with lifting and handling of different plastic and metal pieces as well as oil pumps.
 
-[Hahn Group](https://www.hahn.group/)
+[Hahn Group](https://www.hahn.group/en)
 
 ### Waldorf Technik
 
