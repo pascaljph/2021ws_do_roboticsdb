@@ -560,8 +560,10 @@ Sources:
 [Stäubli](https://www.staubli.com/fr-be/)
 
 ### Short Clips about Stäubli and Robotics
-![Stäubli Smart Factory Innovation Days 2.0](https://www.youtube.com/watch?v=eEsT7I_kV8k)
-![Stäubli's Smart Production at Automatica 2018](https://www.youtube.com/watch?v=mF9rCjtdM8I)
+Video:
+[Stäubli Smart Factory Innovation Days 2.0](https://www.youtube.com/watch?v=eEsT7I_kV8k)
+Video:
+[Stäubli's Smart Production at Automatica 2018](https://www.youtube.com/watch?v=mF9rCjtdM8I)
 
 ### Yaskawa Denki
 
