@@ -472,6 +472,31 @@ Types of robots offered:
 
 [Franka Emika Panda (Youtube)](https://www.youtube.com/watch?v=bXo68UFNyhk)
 
+## Fruitcore robotics
+Fruitcore: The Horst makers from 
+Germany are newcomer in the robotics industry. Fruitcore Robotics has quickly conquered the market for its Horst industrial robot, which is easy to operate and inexpensive. The Horst family includes three models that can carry from 3 kg to 10 kilograms. Target applications include machine loading and feeding tasks, pick-and-place robotics for logistics. The small Horst costs around 10,000 euros.
+
+[Fruitcore robotics](https://fruitcore-robotics.com/)
+
+### Hahn Group
+
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HAHN-GROUP_Logo.png/800px-HAHN-GROUP_Logo.png)
+
+| Overview     | Hahn Group           |
+| ------------ | -------------------- |
+| Headquarter: | Rheinböllen, Germany |
+| Revenue:     | Unknown (2021)       |
+| Founded:     | 2016                 |
+| Employees:   | 1,600 (2020)         |
+
+The Hahn Group GmbH is a group of companies that specialize in industrial automation and robotics, with locations all over the world.
+
+The Hahn Groups has expertise in Assembly and Testing, Material Handling, Robotics and Process Technologies. The companies develop, build and integrate custom-engineered, high performance automation and robot solutions for manufacturing companies.
+
+They have standardized multiple robot applications and are currently selling 8 different automated robots that deal with lifting and handling of different plastic and metal pieces as well as oil pumps.
+
+[Hahn Group](https://www.hahn.group/en)
+
 ### Kuka AG
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kuka-logo.svg/2000px-Kuka-logo.svg.png)
@@ -578,6 +603,29 @@ Video:
 Video:
 [Stäubli's Smart Production at Automatica 2018](https://www.youtube.com/watch?v=mF9rCjtdM8I)
 
+
+### Waldorf Technik
+
+![Logo](https://media-exp1.licdn.com/dms/image/C560BAQFSDoYdEfp7-g/company-logo_200_200/0/1610959101827?e=2159024400&v=beta&t=ZY3lFZeSS8uwzpQonn3oQOFuaa_c7T5qq7LTy5Fnq_I)
+
+
+| Overview     | Waldorf Technik      |
+| ------------ | -------------------- |
+| Headquarter: | Engen, Germany       |
+| Revenue:     | Unknown (2021)       |
+| Founded:     | 1986                 |
+| Employees:   | 150+ (2021)           |
+
+Waldorf Technik, a young daughter of the Hahn Group, specialized in the automation of the injection and molding industry. In 2008, they expanded to the United States by opening up their own sales office.
+
+They are primarily active in different healthcare sectors, but also present in the packaging and barrier technology sectors. Here they develop and provide high tech automation solutions for a variety of products. These products range from petri dishes to contact lenses and stack molding to 3D-barrier coating.
+
+They put in great effort to offer solutions which are not only precise, fast and reliable, but also to offer modular solutions to make their machines adaptable to potential changing needs.
+
+[Waldorf Technik](https://www.waldorf-technik.de/en/)
+
+[Promotional Video](https://youtu.be/4CAq7V4X6zc)
+
 ### Yaskawa Denki
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yaskawa_logo.svg/200px-Yaskawa_logo.svg.png)
@@ -605,49 +653,7 @@ Video:
 [Yaskawa zeigt seine neue Roboterfabrik in Slowenien (Kocevje)!](https://www.youtube.com/watch?v=zZLm2-bb3jc)
 Video:
 [YASKAWA Robotics - Imagefilm 2014 DE](https://www.youtube.com/watch?v=g8kr1rnyQiE)
-### Hahn Group
-
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HAHN-GROUP_Logo.png/800px-HAHN-GROUP_Logo.png)
-
-| Overview     | Hahn Group           |
-| ------------ | -------------------- |
-| Headquarter: | Rheinböllen, Germany |
-| Revenue:     | Unknown (2021)       |
-| Founded:     | 2016                 |
-| Employees:   | 1,600 (2020)         |
-
-The Hahn Group GmbH is a group of companies that specialize in industrial automation and robotics, with locations all over the world.
-
-The Hahn Groups has expertise in Assembly and Testing, Material Handling, Robotics and Process Technologies. The companies develop, build and integrate custom-engineered, high performance automation and robot solutions for manufacturing companies.
-
-They have standardized multiple robot applications and are currently selling 8 different automated robots that deal with lifting and handling of different plastic and metal pieces as well as oil pumps.
-
-[Hahn Group](https://www.hahn.group/en)
-
-### Waldorf Technik
-
-![Logo](https://media-exp1.licdn.com/dms/image/C560BAQFSDoYdEfp7-g/company-logo_200_200/0/1610959101827?e=2159024400&v=beta&t=ZY3lFZeSS8uwzpQonn3oQOFuaa_c7T5qq7LTy5Fnq_I)
 
 
-| Overview     | Waldorf Technik      |
-| ------------ | -------------------- |
-| Headquarter: | Engen, Germany       |
-| Revenue:     | Unknown (2021)       |
-| Founded:     | 1986                 |
-| Employees:   | 150+ (2021)           |
 
-Waldorf Technik, a young daughter of the Hahn Group, specialized in the automation of the injection and molding industry. In 2008, they expanded to the United States by opening up their own sales office.
 
-They are primarily active in different healthcare sectors, but also present in the packaging and barrier technology sectors. Here they develop and provide high tech automation solutions for a variety of products. These products range from petri dishes to contact lenses and stack molding to 3D-barrier coating.
-
-They put in great effort to offer solutions which are not only precise, fast and reliable, but also to offer modular solutions to make their machines adaptable to potential changing needs.
-
-[Waldorf Technik](https://www.waldorf-technik.de/en/)
-
-[Promotional Video](https://youtu.be/4CAq7V4X6zc)
-
-## Fruitcore robotics
-Fruitcore: The Horst makers from 
-Germany are newcomer in the robotics industry. Fruitcore Robotics has quickly conquered the market for its Horst industrial robot, which is easy to operate and inexpensive. The Horst family includes three models that can carry from 3 kg to 10 kilograms. Target applications include machine loading and feeding tasks, pick-and-place robotics for logistics. The small Horst costs around 10,000 euros.
-
-[Fruitcore robotics](https://fruitcore-robotics.com/)
