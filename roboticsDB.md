@@ -415,6 +415,8 @@ Types of robots offered:
 
 ### Adept Technology Inc
 
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Adept_Logo.svg/1200px-Adept_Logo.svg.png)
+
 | Overview     | Adept Technology Inc |
 | ------------ | -------------------- |
 | Headquarters | U.S.A                |
@@ -472,6 +474,8 @@ Types of robots offered:
 
 ### Kuka AG
 
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kuka-logo.svg/2000px-Kuka-logo.svg.png)
+
 | Overview     | Kuka               |
 | ------------ | ------------------ |
 | Headquarters | Augsburg / Germany |
@@ -495,6 +499,8 @@ Source:
 
 ### Moley Robotics
 
+![Logo](https://profile-images.xing.com/images/2710361ca99e042cdcb0d68d0cd819cb-1/gintare-radaviciute.256x256.jpg)
+
 | Overview     | Moley Robotics |
 | ------------ | -------------- |
 | Headquarters | London / UK    |
@@ -513,6 +519,8 @@ Source:
 [Moley](https://moley.com/?target=kitchen_wizard)
 
 ### SIEMENS
+
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Siemens_AG_logo.svg/2000px-Siemens_AG_logo.svg.png)
 
 | Overview     | SIEMENS |
 | ------------ | ------- |
@@ -543,6 +551,8 @@ Video:
 
 
 ### Stäubli
+
+![Logo](https://dpt5udl8tkpo9.cloudfront.net/files/walls/logo/qc3sZxJHBO5-1-1.png)
 
 | Overview     | Stäubli     |
 | ------------ | ----------- |
