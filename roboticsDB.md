@@ -607,6 +607,28 @@ They have standardized multiple robot applications and are currently selling 8 d
 
 [Hahn Group](https://www.hahn.group/)
 
+### Waldorf Technik
+
+![Logo](https://media-exp1.licdn.com/dms/image/C560BAQFSDoYdEfp7-g/company-logo_200_200/0/1610959101827?e=2159024400&v=beta&t=ZY3lFZeSS8uwzpQonn3oQOFuaa_c7T5qq7LTy5Fnq_I)
+
+
+| Overview     | Waldorf Technik      |
+| ------------ | -------------------- |
+| Headquarter: | Engen, Germany       |
+| Revenue:     | Unknown (2021)       |
+| Founded:     | 1986                 |
+| Employees:   | 150+ (2021)           |
+
+Waldorf Technik, a young daughter of the Hahn Group, specialized in the automation of the injection and molding industry. In 2008, they expanded to the United States by opening up their own sales office.
+
+They are primarily active in different healthcare sectors, but also present in the packaging and barrier technology sectors. Here they develop and provide high tech automation solutions for a variety of products. These products range from petri dishes to contact lenses and stack molding to 3D-barrier coating.
+
+They put in great effort to offer solutions which are not only precise, fast and reliable, but also to offer modular solutions to make their machines adaptable to potential changing needs.
+
+[Waldorf Technik](https://www.waldorf-technik.de/en/)
+
+[Promotional Video](https://youtu.be/4CAq7V4X6zc)
+
 ## Fruitcore robotics
 Fruitcore: The Horst makers from 
 Germany are newcomer in the robotics industry. Fruitcore Robotics has quickly conquered the market for its Horst industrial robot, which is easy to operate and inexpensive. The Horst family includes three models that can carry from 3 kg to 10 kilograms. Target applications include machine loading and feeding tasks, pick-and-place robotics for logistics. The small Horst costs around 10,000 euros.
