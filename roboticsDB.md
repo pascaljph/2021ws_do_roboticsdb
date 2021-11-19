@@ -458,6 +458,22 @@ Sources:
 [Boston Dynamics](https://www.bostondynamics.com/)
 [Crunshbase](https://www.crunchbase.com/organization/boston-dynamics)
 
+### Fanuc Robotics
+
+![Logo](https://le-cdn.website-editor.net/2bc97e9ece5e46c8bf858390498d788f/dms3rep/multi/opt/fanuc+logo-332w.png)
+
+| Overview     | Fanuc Robotics         |
+| ------------ | ---------------------- |
+| Headquarter: | Oshino, Japan          |
+| Revenue:     | 635,6 billion JPY  (2019)|
+| Founded:     | 1972                   |
+| Employees:   | 8256                   |
+
+Fanuc Robotics is producing industrial robots, injection molding machines, wire edm machines, milling machines, machine tools for nano-machining, carbon dioxide lasers and fiber lasers. it's mainly active on the robotics, CNC controls, servo motors and the associated frequency converters.
+
+[Fanuc Robotics](https://www.fanuc.eu/de/de/wer-wir-sind/fanuc-history)
+
+[Promotional Video](https://www.youtube.com/watch?v=p16gbM_fyQU)
 ### Franka Emika
 
 ![Logo](https://www.franka.de/_nuxt/img/franka-emika-logo-small-blk.982c6ea.svg)
