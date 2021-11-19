@@ -88,7 +88,9 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 
 ---
 #### Size of the global market for service robots
-* Service robots are expected to grow at a much faster rate than industrial robots. According to an International Federation of Robotics (IFR) report, logistics robots are driving the upward trend, with sales expected to reach 259,000 units by 2023.
+* Service robots are expected to grow at a much faster rate than industrial robots.  
+[global service robots market(youtube)](https://www.youtube.com/watch?v=cPBrC2KL_hs)
+* According to an International Federation of Robotics (IFR) report, logistics robots are driving the upward trend, with sales expected to reach 259,000 units by 2023.
 
 
 * This figure shows the unit sales of 3 applications of service robots between 2018 and  2019, and its further potential development by 2023:
