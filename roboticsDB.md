@@ -533,14 +533,11 @@ Sources:
 ![Siemens Healthineers](https://www.siemens-healthineers.com/de/laboratory-automation/advanced-robotic-solutions)
 ![Siemens Roboter Integration](https://new.siemens.com/de/de/produkte/automatisierung/industrie-software/automatisierungs-software/tia-portal/highlights/roboterintegration.html)
 
-### Short Clips of Siemens and Robotics
+### Short Clips about Siemens and Robotics
 ! [CNC-Robotic by SIEMENS Chemnitz](https://www.youtube.com/watch?v=yW7c6AyElY0)
 ! [Robotics automated with SIMATIC S7-1200](https://www.youtube.com/watch?v=xz7_bpBw3WE)
 ! [Robot connection to automation](https://www.youtube.com/watch?v=oOm8kAT_glw)
 
-! [Clip 1](https://www.youtube.com/watch?v=yW7c6AyElY0)
-! [Clip 2](https://www.youtube.com/watch?v=xz7_bpBw3WE)
-! [Clip 3](https://www.youtube.com/watch?v=oOm8kAT_glw)
 
 ### Stäubli
 
@@ -562,7 +559,7 @@ Sources:
 [Stäubli](https://www.plantautomation-technology.com/articles/top-industrial-robotics-companies-in-the-world)
 [Stäubli](https://www.staubli.com/fr-be/)
 
-### Short Clips of Stäubli and Robotics
+### Short Clips about Stäubli and Robotics
 ![Stäubli Smart Factory Innovation Days 2.0](https://www.youtube.com/watch?v=eEsT7I_kV8k)
 ![Stäubli's Smart Production at Automatica 2018](https://www.youtube.com/watch?v=mF9rCjtdM8I)
 
@@ -588,7 +585,7 @@ Types of robots offered:
 
 [Yaskawa](https://www.yaskawa.de/)
 
-### Short Clips of Yaskawa and Robotics
+### Short Clips about Yaskawa and Robotics
 ! [Yaskawa zeigt seine neue Roboterfabrik in Slowenien (Kocevje)!](https://www.youtube.com/watch?v=zZLm2-bb3jc)
 ! [YASKAWA Robotics - Imagefilm 2014 DE](https://www.youtube.com/watch?v=g8kr1rnyQiE)
 ### Hahn Group
