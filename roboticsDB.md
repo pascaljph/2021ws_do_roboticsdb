@@ -530,13 +530,16 @@ Product range:
 - Robot Software
 
 Sources:
-![Siemens Healthineers](https://www.siemens-healthineers.com/de/laboratory-automation/advanced-robotic-solutions)
-![Siemens Roboter Integration](https://new.siemens.com/de/de/produkte/automatisierung/industrie-software/automatisierungs-software/tia-portal/highlights/roboterintegration.html)
+[Siemens Healthineers](https://www.siemens-healthineers.com/de/laboratory-automation/advanced-robotic-solutions)
+[Siemens Roboter Integration](https://new.siemens.com/de/de/produkte/automatisierung/industrie-software/automatisierungs-software/tia-portal/highlights/roboterintegration.html)
 
 ### Short Clips about Siemens and Robotics
-! [CNC-Robotic by SIEMENS Chemnitz](https://www.youtube.com/watch?v=yW7c6AyElY0)
-! [Robotics automated with SIMATIC S7-1200](https://www.youtube.com/watch?v=xz7_bpBw3WE)
-! [Robot connection to automation](https://www.youtube.com/watch?v=oOm8kAT_glw)
+Video: 
+[CNC-Robotic by SIEMENS Chemnitz](https://www.youtube.com/watch?v=yW7c6AyElY0)
+Video: 
+[Robotics automated with SIMATIC S7-1200](https://www.youtube.com/watch?v=xz7_bpBw3WE)
+Video: 
+[Robot connection to automation](https://www.youtube.com/watch?v=oOm8kAT_glw)
 
 
 ### Stäubli
@@ -588,8 +591,10 @@ Types of robots offered:
 [Yaskawa](https://www.yaskawa.de/)
 
 ### Short Clips about Yaskawa and Robotics
-! [Yaskawa zeigt seine neue Roboterfabrik in Slowenien (Kocevje)!](https://www.youtube.com/watch?v=zZLm2-bb3jc)
-! [YASKAWA Robotics - Imagefilm 2014 DE](https://www.youtube.com/watch?v=g8kr1rnyQiE)
+Video:
+[Yaskawa zeigt seine neue Roboterfabrik in Slowenien (Kocevje)!](https://www.youtube.com/watch?v=zZLm2-bb3jc)
+Video:
+[YASKAWA Robotics - Imagefilm 2014 DE](https://www.youtube.com/watch?v=g8kr1rnyQiE)
 ### Hahn Group
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HAHN-GROUP_Logo.png/800px-HAHN-GROUP_Logo.png)
