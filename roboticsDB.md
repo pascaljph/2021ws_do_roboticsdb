@@ -552,7 +552,7 @@ Video:
 
 ### Stäubli
 
-![Logo](https://dpt5udl8tkpo9.cloudfront.net/files/walls/logo/qc3sZxJHBO5-1-1.png)
+![Logo](http://www.dcosupply.com/wp-content/uploads/2016/06/Staubli-300x200.png)
 
 | Overview     | Stäubli     |
 | ------------ | ----------- |
