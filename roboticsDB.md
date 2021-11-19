@@ -477,6 +477,8 @@ Types of robots offered:
 [Franka Emika Panda (Youtube)](https://www.youtube.com/watch?v=bXo68UFNyhk)
 
 ## Fruitcore robotics
+
+![Logo](https://technologymountains.de/wp-content/uploads/sites/4/2020/05/fruitcore_WB_kompakt_130419_robotics-petrol-01.jpg)
 Fruitcore: The Horst makers from 
 Germany are newcomer in the robotics industry. Fruitcore Robotics has quickly conquered the market for its Horst industrial robot, which is easy to operate and inexpensive. The Horst family includes three models that can carry from 3 kg to 10 kilograms. Target applications include machine loading and feeding tasks, pick-and-place robotics for logistics. The small Horst costs around 10,000 euros.
 
@@ -581,7 +583,7 @@ Video:
 
 ### Stäubli
 
-![Logo](http://www.dcosupply.com/wp-content/uploads/2016/06/Staubli-300x200.png)
+![Logo](https://hkls-shop.com/media/image/4f/b9/0d/2569_Manufacturer.png)
 
 | Overview     | Stäubli     |
 | ------------ | ----------- |
@@ -607,6 +609,23 @@ Video:
 Video:
 [Stäubli's Smart Production at Automatica 2018](https://www.youtube.com/watch?v=mF9rCjtdM8I)
 
+
+### Universal Robots
+
+![Logo](https://www2.skillsoft.com/wp-content/uploads/2020/04/universal-robots-1536x256.png)
+
+| Overview     | Universal Robots      |
+| ------------ | -------------------- |
+| Headquarter: | Odense, Denmark       |
+| Revenue:     | 219 million USD (2020)       |
+| Founded:     | 2005                 |
+| Employees:   | 620 (2018)           |
+
+Universal Robots is specialized in manufactoring industrial robots and cobots with the focus on the market of medium-sized companies. The company is market leader in its field. 
+
+[Universal Robots](https://www.universal-robots.com/de/uber-universal-robots/)
+
+[Promotional Video](https://www.youtube.com/watch?v=PtncirKiBXQ)
 
 ### Waldorf Technik
 
