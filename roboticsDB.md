@@ -77,7 +77,8 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 ---
 
 * This video gives us a Market Forecast for 2024
-! [Market report 2024](https://www.youtube.com/watch?v=NgpDoQ6Vu7I)
+
+[Market report 2024](https://www.youtube.com/watch?v=NgpDoQ6Vu7I)
 
 ---
 
@@ -86,6 +87,20 @@ Robot Market size exceeded USD 3 billion in 2020 and is anticipated to grow at a
 ! [Statista](https://www.statista.com/statistics/760190/worldwide-robotics-market-revenue/)
 
 ---
+#### Size of the global market for service robots
+* Service robots are expected to grow at a much faster rate than industrial robots. According to an International Federation of Robotics (IFR) report, logistics robots are driving the upward trend, with sales expected to reach 259,000 units by 2023.
+
+
+* This figure shows the unit sales of 3 applications of service robots between 2018 and  2019, and its further potential development by 2023:
+
+
+ ![Development of service robots](https://www.automate.org/userAssets/riaUploads/image/1-IFR%20Prest_WR_2020%20Logistics(2).png)
+
+ ###### Source: World Robotics 2020
+
+
+
+
 
 ##### Global market leader 
 * Asia remains the strongest market for industrial robots
@@ -210,11 +225,12 @@ In contrast to the other robots already presented in this document, there are so
 These Robots usually take over tasks which tend to be considered boring or repetitive, for example cleaning or landscaping. This has 2 main advantages. Firstly, these tasks are rather simple to automate. Secondly, due to the monotonous nature of these tasks the demand for an automatic solution was rather high.
 The first Household Robots therefore took over tasks such as trimming lawns, cleaning pools, or vacuuming rooms.
 
-Over the years, the functionality of these kinds of robots was improved. In the beginning, the robots would follow simple or rather random patterns until they were low on battery or 'considered' their work finished. Nowadays, they can map out certain areas, for example singular rooms or certain areas of lawn, which they will systematically take care of.
+Over the years, the functionality of these kinds of robots was improved massively. In the beginning, the robots would follow simple or rather random patterns until they were low on battery or 'considered' their work finished, with no way or means to actually measure their success. Nowadays, they can map out certain areas, for example singular rooms or certain areas of lawn, which they will systematically take care of.
 
 ![CleaningPlan](https://i.pinimg.com/564x/af/d0/56/afd0569d171da6ee3324e0761891e2c4.jpg)
 
-This allows the robots to be not only more time efficient but often times also more energy efficient.
+The picture above displays an exemplary pattern which a vacuuming / cleaning robot could follow to systematically clean an apartment.
+By following such a work pattern, the robot is not only able to be more time efficient but often times also more energy efficient, in comparison to a robot working without following such a pattern.
 
 Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-history-and-future/](http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic-robots-history-and-future/)
 
@@ -229,6 +245,7 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 - [Automated vision](https://www.roboticstomorrow.com/article/2014/07/automated-vision-inspection-and-parts-traceability-in-automotive-assembly-process/4410/) with a camera for feedback
 - Perform proper offsetting when installing a part
 - Installation of: door panels, windshields, and fenders
+
 
 #### 2) Spot and Arc Welding
 
@@ -263,16 +280,28 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
 - Autonomous mobile robots (AMRs)
 - AMRs from Mobile Industrial Robots (MiR) to deliver on the factory floor ([Case Study: Ford](https://www.roboticsbusinessreview.com/case_studies/case-study-why-ford-deployed-amrs-to-automate-spanish-factory/))
 
+### Warehouse Automation by Robots
+
+[FLEXIBLE WAREHOUSE AUTOMATION](https://www.bostondynamics.com/stretch/resources/flexible-warehouse-automation)
+
 ### Robots in Material Handling
 
 - Moves parts or products at scale - reducing changeover time.
-- Saving floorspace and maintaining consistency.
+- Saving floor-space and maintaining consistency.
+
+[REDUCE LABOR COSTS WITH AUTOMATION](https://robotics.kawasaki.com/en1/applications/robotic-material-handling/)
 
 ### Robots for Logistics
 
 - A viable option for automation of complex tasks.
 - Exceeding speed and accuracy of manual labor.
 - Reducing worker injuries and product damage.
+
+[Robots in Logistics: Order Fulfillment](https://www.youtube.com/watch?v=d9PVkOjz1ow)
+
+![pic](https://www.automate.org/userAssets/a3/a3Uploads/emerging-markets/images/robotics/logistics.jpg)
+
+[source](https://www.automate.org/a3-content/service-robots-logistic-robots)
 
 ### Robots for Picking and Packing
 
@@ -285,6 +314,8 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
   - bottle packing
   - shrink-wrapping
   - pouch handling and more ....
+
+  [Human-Robot Collaborative Packing with Motoman HC Series Cobots](https://www.youtube.com/watch?v=iq4tnnUOG0I&list=TLGGyx2PXfEt9AIxODExMjAyMQ)
 
 ### Robots for Palletizing
 
@@ -316,6 +347,8 @@ Source: [http://www.vacuumcleanerhistory.com/vacuum-cleaner-development/domestic
   - Phenotyping
   - Sorting and packing
   - Utility platforms
+
+[Agricultural robots as the future of job creation](https://www.automate.org/blogs/agricultural-robots-the-future-of-job-creation)
 
 ### Robots in Military
 
@@ -377,6 +410,8 @@ Types of robots offered:
 - delta robots
 - SCARA robots
 - Paint robots
+
+[ABB](https://new.abb.com/products/robotics/)
 
 ### Adept Technology Inc
 
@@ -503,6 +538,9 @@ Sources:
 ! [Robotics automated with SIMATIC S7-1200](https://www.youtube.com/watch?v=xz7_bpBw3WE)
 ! [Robot connection to automation](https://www.youtube.com/watch?v=oOm8kAT_glw)
 
+! [Clip 1](https://www.youtube.com/watch?v=yW7c6AyElY0)
+! [Clip 2](https://www.youtube.com/watch?v=xz7_bpBw3WE)
+! [Clip 3](https://www.youtube.com/watch?v=oOm8kAT_glw)
 
 ### Stäubli
 
@@ -528,7 +566,6 @@ Sources:
 ![Stäubli Smart Factory Innovation Days 2.0](https://www.youtube.com/watch?v=eEsT7I_kV8k)
 ![Stäubli's Smart Production at Automatica 2018](https://www.youtube.com/watch?v=mF9rCjtdM8I)
 
-
 ### Yaskawa Denki
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yaskawa_logo.svg/200px-Yaskawa_logo.svg.png)
@@ -549,6 +586,54 @@ Types of robots offered:
 - SCARA robots
 - Paint robots
 
+[Yaskawa](https://www.yaskawa.de/)
+
 ### Short Clips of Yaskawa and Robotics
 ! [Yaskawa zeigt seine neue Roboterfabrik in Slowenien (Kocevje)!](https://www.youtube.com/watch?v=zZLm2-bb3jc)
 ! [YASKAWA Robotics - Imagefilm 2014 DE](https://www.youtube.com/watch?v=g8kr1rnyQiE)
+### Hahn Group
+
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HAHN-GROUP_Logo.png/800px-HAHN-GROUP_Logo.png)
+
+| Overview     | Hahn Group           |
+| ------------ | -------------------- |
+| Headquarter: | Rheinböllen, Germany |
+| Revenue:     | Unknown (2021)       |
+| Founded:     | 2016                 |
+| Employees:   | 1,600 (2020)         |
+
+The Hahn Group GmbH is a group of companies that specialize in industrial automation and robotics, with locations all over the world.
+
+The Hahn Groups has expertise in Assembly and Testing, Material Handling, Robotics and Process Technologies. The companies develop, build and integrate custom-engineered, high performance automation and robot solutions for manufacturing companies.
+
+They have standardized multiple robot applications and are currently selling 8 different automated robots that deal with lifting and handling of different plastic and metal pieces as well as oil pumps.
+
+[Hahn Group](https://www.hahn.group/en)
+
+### Waldorf Technik
+
+![Logo](https://media-exp1.licdn.com/dms/image/C560BAQFSDoYdEfp7-g/company-logo_200_200/0/1610959101827?e=2159024400&v=beta&t=ZY3lFZeSS8uwzpQonn3oQOFuaa_c7T5qq7LTy5Fnq_I)
+
+
+| Overview     | Waldorf Technik      |
+| ------------ | -------------------- |
+| Headquarter: | Engen, Germany       |
+| Revenue:     | Unknown (2021)       |
+| Founded:     | 1986                 |
+| Employees:   | 150+ (2021)           |
+
+Waldorf Technik, a young daughter of the Hahn Group, specialized in the automation of the injection and molding industry. In 2008, they expanded to the United States by opening up their own sales office.
+
+They are primarily active in different healthcare sectors, but also present in the packaging and barrier technology sectors. Here they develop and provide high tech automation solutions for a variety of products. These products range from petri dishes to contact lenses and stack molding to 3D-barrier coating.
+
+They put in great effort to offer solutions which are not only precise, fast and reliable, but also to offer modular solutions to make their machines adaptable to potential changing needs.
+
+[Waldorf Technik](https://www.waldorf-technik.de/en/)
+
+[Promotional Video](https://youtu.be/4CAq7V4X6zc)
+
+## Fruitcore robotics
+Fruitcore: The Horst makers from 
+Germany are newcomer in the robotics industry. Fruitcore Robotics has quickly conquered the market for its Horst industrial robot, which is easy to operate and inexpensive. The Horst family includes three models that can carry from 3 kg to 10 kilograms. Target applications include machine loading and feeding tasks, pick-and-place robotics for logistics. The small Horst costs around 10,000 euros.
+
+[Fruitcore robotics](https://fruitcore-robotics.com/)
