@@ -193,6 +193,8 @@ A collaborative robot (cobot) is an industrial robot that works together with hu
 
 Source: [Yaskawa - https://www.yaskawa.eu.com/products/robots/smart-series#learn](https://www.yaskawa.eu.com/products/robots/smart-series#learn)
 
+* This link is an overview of important collaborative robots manufacturers: 
+![Cobot](https://automationspraxis.industrie.de/cobot/kollaborative-roboter-wichtige-cobot-hersteller-im-ueberblick/)
 ### Humanoid robots
 
 Tesla is already revealing initial concepts of a humanoid robot that will be able to perform repetitive, tedious and dangerous tasks. Called "Tesla Bot," the robot is expected to be 1.70 m tall, weigh about 56 kg, carry a load of 20 kg and be able to lift nearly 70 kg from its cross.
