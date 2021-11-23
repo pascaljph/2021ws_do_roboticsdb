@@ -215,15 +215,14 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 
 Robotic platforms are used to automate manual work processes. The platform - the workstation - can be assembled by a variety of different robots to perform different tasks. This serves to reduce manufacturing costs and increase the quality of production products.
 
+![Robotic Workstation (ARW)](https://www.essert.com/wp-content/uploads/2019/08/FANUC-Konfig-Essert-ARW-960x793.png)
 
+The robot platforms can look different. The links below will take you to different examples
+[Possible use in industry - assembly of small parts](https://www.essert.com/wp-content/uploads/2020/10/ARW-Small-Parts-Assembly-Edition-960x960.png)
 
+[Possible use in laboratory / diagnostics industry - for automation of laboratory activities](https://www.essert.com/wp-content/uploads/2020/10/ARW-Lab-Edition-960x960.png)
 
-
-
-
-
-
-
+[Possible use in pharmaceutical / medical industry - for programming and testing of medical devices](https://www.essert.com/wp-content/uploads/2020/10/ARW-Medical-Device-Testing-Edition-960x668.png)
 
 ----
 
