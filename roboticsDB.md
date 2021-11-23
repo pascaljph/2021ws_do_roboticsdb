@@ -209,6 +209,24 @@ Tesla is already revealing initial concepts of a humanoid robot that will be abl
 
 [Boston Dynamics](https://github.com/DrUlrichAnders/2021ws_do_roboticsdb/blob/main/roboticsDB.md#Boston-Dynamics)
 
+---
+
+### Robot platform
+
+Robotic platforms are used to automate manual work processes. The platform - the workstation - can be assembled by a variety of different robots to perform different tasks. This serves to reduce manufacturing costs and increase the quality of production products.
+
+
+
+
+
+
+
+
+
+
+
+----
+
 ### Pre-Programmed Robots
 
 - Pre programed robots can do work that people would get tired of repeating over and over. These robots never take a lunch break or any break! You might have to repair them once in a while. They also have very good accuracy.These robots can drive cars, make cars and even fix cars.
@@ -418,6 +436,12 @@ Types of robots offered:
 - Paint robots
 
 [ABB](https://new.abb.com/products/robotics/)
+
+### Short Clips about  Robotics
+Clip:
+[ABB shows the functionality of the YuMi robot](https://www.bing.com/videos/search?q=Abb+roboter+youtube&qpvt=Abb+roboter+youtube&view=detail&mid=98BC70CA697EB823C49698BC70CA697EB823C496&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3DAbb%2Broboter%2Byoutube%26qpvt%3DAbb%2Broboter%2Byoutube%26FORM%3DVDRE)
+
+
 
 ### Adept Technology Inc
 
@@ -691,10 +715,28 @@ Types of robots offered:
 
 ### Short Clips about Yaskawa and Robotics
 Video:
-[Yaskawa zeigt seine neue Roboterfabrik in Slowenien (Kocevje)!](https://www.youtube.com/watch?v=zZLm2-bb3jc)
+[Yaskawa shows its new robot factory in Slovenia (Kocevje)!](https://www.youtube.com/watch?v=zZLm2-bb3jc)
+
 Video:
 [YASKAWA Robotics - Imagefilm 2014 DE](https://www.youtube.com/watch?v=g8kr1rnyQiE)
 
+---
+
+![Logo](https://th.bing.com/th/id/OIP.w4DWiRLxY5lMBzoMLYa2JAHaCi?pid=ImgDet&rs=1)
 
 
+| Overview     | Yaskawa Denki        |
+| ------------ | -------------------- |
+| Headquarter: | Duesseldorf, Germany    |
+| Revenue:     | $425 million (2019) |
+| Founded:     | 1990                 |
+| Employees:   | 1,815 (2019)        |
 
+The company, which has 20 locations, develops technological solutions and industrial products for the automotive industry, process technology, automation solutions for medical technology and environmental technology, among others. The export ratio is around 60 percent.
+
+
+[Advanced robotic Workstation - Information Video](https://youtu.be/4XZM67YZosc)
+
+[Video in which the platform is filmed during the assembly of up to 8 small parts from bulk material](https://www.youtube.com/watch?v=FhPosZmRwLw)
+
+---
