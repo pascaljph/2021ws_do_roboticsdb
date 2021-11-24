@@ -145,7 +145,7 @@ In 2020, about 71% of all newly built robots got distributed in Asia. China has 
 * Automotive demand sunk by 20%
 * General demand rose by 14%
 
- Germany's robot installations accounted for 33% in 2020 which is 22.300 units. Because of of stronger business and markets in Asia, Germany's demand in robots is projected to grow slowly.
+ Germany's robot installations accounted for 33% in 2020 which is 22.300 units. Because of stronger business and markets in Asia, Germany's demand in robots is projected to grow slowly.
  Installations in the UK rose by 8%. Due to Brexit and Covid causing a employee shortage, their demand for robots is expected to grow strongly.
 
 #### **USA**
